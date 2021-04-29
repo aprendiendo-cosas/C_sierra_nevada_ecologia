@@ -80,9 +80,26 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 
 
-## Contextualización ecológica del itinerario (en construcción)
+## Contextualización ecológica del itinerario 
 
-- Breve introducción a Sierra Nevada. 
+Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
+
+El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
+
++ Bosques naturales: encinares, robledales de *Quercus pyrenaica*, coscojales (*Quercus coccifera*) y quejigales (*Quercus faginea*) son las formaciones más abundantes de este tipo.
++ Pinares de repoblación: Ocupan unas 40.000 Has y fueron plantados en las primeras décadas del siglo XX para frenar la erosión que era muy intensa tras décadas de uso insostenible de los bosques.
++ Matorrales de media montaña: Son muy abundantes por debajo de los 2000 m de altitud, sobre todo en la parte oriental que es más árida.
++ Matorrales de alta montaña: Por encima del límite del árbol crecen matorrales leñosos que están adaptados a vivir en un ambiente frío y seco.
++ Pastizales de alta montaña: Más arriba todavía, por encima de los 2600 m la vida vegetal se restringe a un pastizal poco denso que vive sobre el suelo desnudo y está adaptado a condiciones climáticas extremas.
++ Sistemas acuáticos: En Sierra Nevada son muy abundantes las lagunas de origen glacial. En ellas se desarrolla un ecosistema muy interesante propio de zonas alpinas. 
+
+El siguiente mapa muestra la distribución de estos ecosistemas principales:
+
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/ecosistemas.jpg)
+
+
+
+
 
 - Finca de San Juan. 
 
