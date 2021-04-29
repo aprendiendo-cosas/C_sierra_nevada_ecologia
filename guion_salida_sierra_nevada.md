@@ -132,13 +132,13 @@ A continuación se describen dos paradas a modo de ejemplo. Las demás las compl
 + *Interpretación a la luz de la ecología*: Aquí observamos las cicatrices que provocó la construcción de un remonte para esquiar en torno al 1960. Se destruyó completamente la vegetación  y hoy asistimos a un proceso de sucesión secundaria en el que poco a poco se va recuperando la cubierta vegetal. Este proceso de regeneración se puede constatar tanto mediante fotografía aérea (aumento de la cobertura) como mediante teledetección (tendencia positiva en el NDVI).
 + *Material gráfico de interés*: Las siguientes imágenes muestran la situación anterior de manera gráfica. Se observa una serie de fotografías aéreas en las que se ve cómo la construcción del remote destruye la vegetación y luego ésta va regenerándose espontaneamente. Otra imagen muestra la tendencia de NDVI en esta zona, que constata la regeneración. 
 
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1956.png" alt="1956" style="zoom: 50%;" />
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1956.png" alt="1956" style="zoom: 40%;" />
 
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1977.png" alt="1977" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1977.png" alt="1977" style="zoom:40%;" />
 
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_2020.png" alt="2020" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_2020.png" alt="2020" style="zoom:40%;" />
 
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_NDVI.png" alt="NDVI" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_NDVI.png" alt="NDVI" style="zoom:40%;" />
 
 
 
@@ -156,29 +156,51 @@ Para que este proceso funcione correctamente, debes de seguir los siguientes pas
 
 2. Una vez instalado, tienes que registrate en la aplicación. Toca el botón con líneas horizontales del extremo superior izquierdo de la pantalla y selecciona *Iniciar sesión*
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_2.PNG" alt="epicollect2" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_2.PNG" alt="epicollect2" style="zoom:23%;" />
 
 3. Haz click en *google Sign in* para seleccionar tu cuenta de google. En este proceso tendrás que poner tu contraseña de google y autorizar a epicollect para que pueda acceder usando tu usuario de google.
 
    
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_3.PNG" alt="epicollect3" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_3.PNG" alt="epicollect3" style="zoom:23%;" />
 
 4. Un vez registrado toca en añadir proyecto y pon "Salida Sierra..." en el recuadro de búsqueda.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_4.PNG" alt="epicollect4" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_4.PNG" alt="epicollect4" style="zoom:23%;" />
 
 5. Toca en el proyecto llamado *Salida Sierra Nevada 2021*. Aparecerá la opción de *Añadir entrada*
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_6.PNG" alt="epicollect6" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_6.PNG" alt="epicollect6" style="zoom:23%;" />
 
 6. Esta opción te permite completar un formulario para cada punto de interés que hayas localizado. En primer lugar has de introducir tu nombre.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_7.PNG" alt="epicollect7" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_7.PNG" alt="epicollect7" style="zoom:23%;" />
 
 7. Cuando lo hagas, toca en *Próx* (arriba a la derecha) para ir a la siguiente pregunta. En ella podrás escribir el texto que consideres de interés para interpretar el punto seleccionado con conceptos propios de la ecología.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_8.PNG" alt="epicollect8" style="zoom:33%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_8.PNG" alt="epicollect8" style="zoom:23%;" />
 
-8. 
+8. También es posible añadir la ubicación. Esto es muy importante porque luego querremos poner todos los puntos en un mapa.
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_9.PNG" alt="epicollect9" style="zoom:23%;" />
+
+9. El siguiente paso consiste en añadir una fotografía. Hay dos pasos para añadir fotos.
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_10.PNG" alt="epicollect10" style="zoom:23%;" />
+
+10. A continuación se ofrece la posibilidad de grabar un vídeo.
+
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_12.PNG" alt="epicollect12" style="zoom:23%;" />
+
+11. Por último, es posible grabar un audio para documentar el proceso.
+
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_13.PNG" alt="epicollect13" style="zoom:23%;" />
+
+12. Una vez completada la captura de datos, es necesario guardar la entrada en el teléfono. 
+
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_14.PNG" alt="epicollect14" style="zoom:23%;" />
+
+13. Si ha conexión a internet, es posible sincronizar nuestra base de datos con la central. Para ello hay que tocar en *Sincronizar ahora*. Esto abre una serie de pantallas que permiten ir subiendo a la nube los distintos apartados que hemos capturado anteriormente. Hay que ir tocando en los botones que van activándose de manera secuencial. Si no hay conexión a internet, se puede hacer más adelante.
+
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_15.PNG" alt="epicollect15" style="zoom:23%;" />
 
