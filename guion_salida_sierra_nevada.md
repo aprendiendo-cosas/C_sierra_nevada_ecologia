@@ -153,5 +153,32 @@ Para capturar la información y para recopilarla de manera coordinada, usaremos 
 Para que este proceso funcione correctamente, debes de seguir los siguientes pasos:
 
 1. Instala la aplicación en tu dispositivo. Haz click [aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y [aquí](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8) para iOS.
-2. Una vez instalado, tienes que registrate. 
+
+2. Una vez instalado, tienes que registrate en la aplicación. Toca el botón con líneas horizontales del extremo superior izquierdo de la pantalla y selecciona *Iniciar sesión*
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_2.PNG" alt="epicollect2" style="zoom:33%;" />
+
+3. Haz click en *google Sign in* para seleccionar tu cuenta de google. En este proceso tendrás que poner tu contraseña de google y autorizar a epicollect para que pueda acceder usando tu usuario de google.
+
+   
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_3.PNG" alt="epicollect3" style="zoom:33%;" />
+
+4. Un vez registrado toca en añadir proyecto y pon "Salida Sierra..." en el recuadro de búsqueda.
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_4.PNG" alt="epicollect4" style="zoom:33%;" />
+
+5. Toca en el proyecto llamado *Salida Sierra Nevada 2021*. Aparecerá la opción de *Añadir entrada*
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_6.PNG" alt="epicollect6" style="zoom:33%;" />
+
+6. Esta opción te permite completar un formulario para cada punto de interés que hayas localizado. En primer lugar has de introducir tu nombre.
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_7.PNG" alt="epicollect7" style="zoom:33%;" />
+
+7. Cuando lo hagas, toca en *Próx* (arriba a la derecha) para ir a la siguiente pregunta. En ella podrás escribir el texto que consideres de interés para interpretar el punto seleccionado con conceptos propios de la ecología.
+
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/epicollect_8.PNG" alt="epicollect8" style="zoom:33%;" />
+
+8. 
 
