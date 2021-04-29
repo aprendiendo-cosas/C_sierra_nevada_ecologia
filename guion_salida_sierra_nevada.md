@@ -18,7 +18,7 @@ Esta práctica tiene los siguientes objetivos:
   + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
   + Experimentar de primera mano la complejidad de la naturaleza.
   + Experimentar en campo los retos de la gestión del medio natural.
-  + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. 
+  + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
   
 + Instrumentales:
 
