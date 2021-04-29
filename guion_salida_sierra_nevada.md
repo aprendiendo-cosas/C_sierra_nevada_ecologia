@@ -59,7 +59,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
   + Un desayuno energético: frutos secos o un bocadillo y fruta.
   + Un almuerzo no muy pesado (nada de callos...). Quizás otro bocata o una tortilla. También algo de fruta y quizás algo dulce para recargar energía.
   + Algo de picoteo para recuperar fuerzas durante la marcha: pasas, dátiles o barritas energéticas.
-+ Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Yo llevaré lo segundo e intentaré llevar también pastillas, pero no es seguro. Diría que con 3 litros de agua es suficiente, pero si tiendes a sudar mucho, echa 4.
++ Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Yo llevaré lo segundo e intentaré llevar también pastillas, pero no es seguro. Diría que con 2 litros de agua es suficiente, pero si tiendes a sudar mucho, echa 3.
 + Crema solar. Andaremos todo el rato por encima de los 1000 m de altura. Espero que haga sol, así que las probabilidades de que nos quememos son altas. Esto es muy importante. Lleva crema protectora factor 50 y así evitarás quemaduras. Un gorro también estaría bien.
 + Gafas de Sol. Es recomendable usarlas en la montaña.
 + Mascarilla. Es obligatoria todo el rato. Cuando estemos al aire libre igual podemos relajar esta restricción (si mantenemos la distancia). Pero en el autobús es fundamental que llevemos mascarilla todos. Sugiero que en el bus llevéis una FPP2 o FPP3 que proteje más aún. Al aire libre basta con una de tela. Quien no lleve mascarilla en el bus se queda en tierra.
@@ -80,7 +80,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 
 
-## Contextualización ecológica del itinerario 
+## Contextualización ecológica de la excursión
 
 Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
 
@@ -95,8 +95,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 
 El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/ecosistemas.jpg)
-
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/ecosistemas.png)
 
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
@@ -105,28 +104,42 @@ Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/ecosistemas.jpg)
-
-
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
 
-![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/adaptaciones.jpg)
-
-
+![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
 
 
 
+Nuestra excursión se desarrollará una finca denominada "Dehesa de San Juan". Se encuentra en el corazón de Sierra Nevada e incluye los picos más altos del macizo (Mulhacén, Veleta y Alcazaba), así como el nacimiento del río Genil (principal afluente del Guadalquivir). Esta finca contiene el mayor gradiente altitudinal de ecosistemas de toda la Península Ibérica. Desde los pastos y roquedos de alta montaña, hasta densos bosques de encinas y robles melojos. También cuenta con lagunas de alta montaña de los que nace el río Genil. [Este](https://www.youtube.com/watch?v=uOiUIuRuwzI) vídeo resume las características principales de la finca. Y en [esta](https://www.miteco.gob.es/es/parques-nacionales-oapn/centros-fincas/san-juan/default.aspx) web hay mucha información sobre características ecológicas y de manejo de esta finca, que es propiedad del estado. 
 
 
-Finca de San Juan. 
+
+## Descripción del itinerario y de las paradas que realizaremos
+
+En el mapa del itinerario ([aquí](https://www.google.com/maps/d/u/1/edit?mid=1YwCDRAPcOW-5aPxbWUrI-w3T0X49vmql&usp=sharing) lo tienes de nuevo) puedes ver una serie de puntos que representan las paradas que realizaremos para aprender a interpretar el paisaje a la luz de la ecología. He seleccionado una serie de lugares en los que se observan cuestiones relacionadas con los temas principales de la asignatura. En cada una de esas paradas hay un texto descriptivo, así como fotografías o imágenes que lo ilustran.
+
+A continuación se describen dos paradas a modo de ejemplo. Las demás las completaremos juntos durante la excursión y después de la misma (ver siguiente sección)
+
+
+
+### Parada 3: Sucesión tras una perturbación
+
++ *Descripción del sitio*: Se trata de una ladera orientada al norte que está cubierta por matorrales de alta montaña. Se observa una línea sin vegetación.
++ *Interpretación a la luz de la ecología*: Aquí observamos las cicatrices que provocó la construcción de un remonte para esquiar en torno al 1960. Se destruyó completamente la vegetación  y hoy asistimos a un proceso de sucesión secundaria en el que poco a poco se va recuperando la cubierta vegetal. Este proceso de regeneración se puede constatar tanto mediante fotografía aérea (aumento de la cobertura) como mediante teledetección (tendencia positiva en el NDVI).
++ *Material gráfico de interés*
+
+
+
+
 
 - Principales paradas y temas a abordar. Ficha tipo para cada parada.
 
   - Nombre del lugar.
-  - Tópico principal (relacionado con el temario de la asignatura)
+  - Tópicos principales (relacionados con el temario de la asignatura)
   - Texto explicativo.
   - Fotografías o vídeos.
   - Material complementario
@@ -134,7 +147,6 @@ Finca de San Juan.
   
 
 ## Tareas a realizar (en construcción)
-
 
 
 
