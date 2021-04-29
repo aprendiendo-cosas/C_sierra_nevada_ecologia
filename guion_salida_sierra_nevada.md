@@ -76,7 +76,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
   + Paracetamol o similar: Si no estás acostumbrado a la altura puede dolerte la cabeza. El paracetamol o el ibuprofeno te ayudarán. Recuerda tomarlos con el estómago lleno (o al menos no vacío).
   + Si eres alérgico o asmático, dímelo cara a cara cuando empecemos a andar. Así estaremos pendientes de ti. No olvides tus antihistamínicos, ventolín o lo que sea. Si tienes urbasón en casa, échalo por si acaso.
 + Papel higiénico y alguna bolsa de plástico.
-+ Instala una aplicación llamada **[epicolect5](https://five.epicollect.net/)** en tu móvil ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [OsX](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). Si no tienes móvil sería bueno que trajeras una tablet o una cámara de fotos más un cuaderno. Usaremos la aplicación para hacer un ejercicio grupal. En la siguiente versión de este guión pondré más información. 
++ Instala una aplicación llamada **[epicolect5](https://five.epicollect.net/)** en tu móvil ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). Si no tienes móvil sería bueno que trajeras una tablet o una cámara de fotos más un cuaderno. Usaremos la aplicación para hacer un ejercicio grupal. En la siguiente versión de este guión pondré más información. 
 
 
 
@@ -130,25 +130,28 @@ A continuación se describen dos paradas a modo de ejemplo. Las demás las compl
 
 + *Descripción del sitio*: Se trata de una ladera orientada al norte que está cubierta por matorrales de alta montaña. Se observa una línea sin vegetación.
 + *Interpretación a la luz de la ecología*: Aquí observamos las cicatrices que provocó la construcción de un remonte para esquiar en torno al 1960. Se destruyó completamente la vegetación  y hoy asistimos a un proceso de sucesión secundaria en el que poco a poco se va recuperando la cubierta vegetal. Este proceso de regeneración se puede constatar tanto mediante fotografía aérea (aumento de la cobertura) como mediante teledetección (tendencia positiva en el NDVI).
-+ *Material gráfico de interés*
++ *Material gráfico de interés*: Las siguientes imágenes muestran la situación anterior de manera gráfica. Se observa una serie de fotografías aéreas en las que se ve cómo la construcción del remote destruye la vegetación y luego ésta va regenerándose espontaneamente. Otra imagen muestra la tendencia de NDVI en esta zona, que constata la regeneración. 
+
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1956.png" alt="1956" style="zoom: 50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_1977.png" alt="1977" style="zoom:50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_2020.png" alt="2020" style="zoom:50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/parada_3_NDVI.png" alt="NDVI" style="zoom:50%;" />
 
 
 
+## Tareas a realizar 
 
+La descripción de las paradas que realizaremos es importante porque vamos a recopilar más información de manera colaborativa durante la excursión. Para ello, cada uno de vosotros deberá de elegir dos puntos del recorrido e interpretarlo con las "gafas de la ecología". Es decir, debes de hacer una interpretación parecida a la que hay en la sección anterior en el ejemplo de una parada. Sé que durante la excursión no tendrás acceso a información de satélite, pero puedes preguntarme o interpretar con tu experiencia lo que ves en el paisaje. Y no tienes que ceñirte a los ejemplos que usaré yo. 
 
-- Principales paradas y temas a abordar. Ficha tipo para cada parada.
+A modo de ejemplo, una interpretación válida podría ser: "En este punto se observa un bosque de robles en el que, aparentemente, no hay regeneración. Solo se observan individuos adultos. Esto se podría explicar porque en décadas pasadas ha debido ocurrir un evento de sobrepastoreo"
 
-  - Nombre del lugar.
-  - Tópicos principales (relacionados con el temario de la asignatura)
-  - Texto explicativo.
-  - Fotografías o vídeos.
-  - Material complementario
+Para capturar la información y para recopilarla de manera coordinada, usaremos la aplicación epicollect5. En dicha aplicación he creado un formulario para que todos podamos capturar información y almacenarla en la misma base de datos.
 
-  
+Para que este proceso funcione correctamente, debes de seguir los siguientes pasos:
 
-## Tareas a realizar (en construcción)
-
-
-
-
+1. Instala la aplicación en tu dispositivo. Haz click [aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y [aquí](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8) para iOS.
+2. Una vez instalado, tienes que registrate. 
 
