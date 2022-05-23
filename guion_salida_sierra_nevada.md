@@ -10,6 +10,16 @@
 
 
 
+
+
+**PONER ENLACES A ESTAS APLICACIONES**
+
+
+
+ se me ocurre que sería interesante que exploraran alguna(s) app(s) chulas para identificar especies, como *PlantNet*, *PlantSnap* o *iNaturalist* para plantas por ejemplo, y árboles como *Arbolapp*, o *Picture* *Insect* o *BugFinder* para insectos que más tarde pueden contrastar [aquí](https://www.insectidentification.org/bugfinder-start.php). Para anfibios/reptiles sólo conozco *iNaturalist* gratis y de amplio espectro.
+
+
+
 ## Objetivos
 
 Esta práctica tiene los siguientes objetivos:
@@ -27,20 +37,30 @@ Esta práctica tiene los siguientes objetivos:
   
    
 
-## Cuestiones logísticas e itinerario
+## Cuestiones logísticas
 
 El plan general de la excursión se describe en los siguientes puntos:
 + El autobús os recogerá a las **7 de la mañana** en [este](https://goo.gl/maps/tkjAxuqWFyvnGbkA6) punto que está justo al lado de la estación de autobuses de Córdoba. Allí estará Elisa Oteros Rozas, a la que ya conocéis. Ella se encargará de la logística del viaje hasta Granada. Revisará la lista de asistentes y no dejará subir a quien no esté en ella.
-+ Tras un rato de viaje me recogeréis [aquí](https://goo.gl/maps/GfyAhMTV4nzGNR1o6). Como sabéis yo vivo en Granada. Concretamente en un pueblo llamado Cenes de la Vega que está a los pies de Sierra Nevada.
++ Tras un rato de viaje me recogeréis [aquí](https://www.google.es/maps/@37.1537352,-3.5340092,20.38z). Como sabéis yo vivo en Granada. Concretamente en un pueblo llamado Cenes de la Vega que está a los pies de Sierra Nevada.
 + Una vez que estemos todos en el autobús comenzaremos el ascenso a Sierra Nevada. En el trayecto (que dura unos 40') iremos explicando algunas cuestiones relacionadas con la excursión.
 + Haremos [aquí](https://goo.gl/maps/fC7iWAcUFwxD8yyF9) una primera parada para estirar un poco las piernas y para ver el valle del río Monachil, en cuya cabecera se ubica la estación de esquí de Sol y Nieve.
-+ Volveremos al autobús y seguiremos unos pocos kilómetros hasta [aquí](https://goo.gl/maps/xm94S523NcDdFLiL8). Desde este punto iniciaremos la ruta a pie. 
-+ La excursión a pie constituye el grueso de la actividad. En ella recorreremos la cabecera del río Genil. El siguiente mapa muestra el itinerario que seguiremos (**ojo, la información cartográfica es aún incompleta. El lunes 22 tendréis la versión final de la ruta**). Te pego [aquí](https://www.google.com/maps/d/u/1/edit?mid=1YwCDRAPcOW-5aPxbWUrI-w3T0X49vmql&usp=sharing) el enlace para que lo abras desde el móvil fácilmente. Se trata de una excursión que nos requerirá cierto esfuerzo físico. Recorreremos unos 13 Km casi todos ellos hacia abajo. 
-+ En torno a las 17:30 llegaremos a [este](https://goo.gl/maps/F13g8wXeNUjGWJkq5) punto en el que nos recogerá el autobús e iniciaréis el viaje de regreso a Córdoba. 
++ Volveremos al autobús y seguiremos unos pocos kilómetros hasta [aquí](https://goo.gl/maps/7QvyFs3x9RhcZNDE8). Desde este punto iniciaremos la ruta a pie. 
++ La excursión a pie constituye el grueso de la actividad. En ella recorreremos la cabecera del río Genil. El siguiente mapa muestra el itinerario que seguiremos. Te pego [aquí](https://www.google.com/maps/d/u/0/edit?mid=18J_lN_a4vQ8oRn6EqRBqh0QDG3lvYa0R&usp=sharing) el enlace para que lo abras desde el móvil fácilmente. Se trata de una excursión que nos requerirá cierto esfuerzo físico. Recorreremos unos 13 Km casi todos ellos hacia abajo, como puedes ver en el perfil de la siguiente sección.
+
++ En torno a las 17:30 llegaremos a [este](https://goo.gl/maps/XRZfzayutRfF82WK7) punto en el que nos recogerá el autobús e iniciaréis el viaje de regreso a Córdoba. 
++ Llegaréis a Córdoba en torno a las 20:00. Es decir, tendréis tiempo de darse una ducha y salir corriendo para la feria ;)
 
 
 
-**OJO: Este mapa no es el definitivo. Sufrirá ligeros cambios que estarán disponibles el lunes 23**
+## Itinerario
+
+El mapa que puedes ver a continuación describe con detalle el itinerario que seguiremos. En azul se muestra la ruta que haremos a pie. Empezaremos por el punto situado más al sur del mapa, justo donde pone *Hoya de la Mora*. Desde ahí empezaremos a recorrer el valle del río San Juan y luego cambiaremos al valle del Genil. En el trayecto atravesaremos entre tres [pisos bioclimáticos](https://es.wikipedia.org/wiki/Zonaci%C3%B3n_Altitudinal): crioromediterráneo, oromediterráneo y supramediterráneo. Estos pisos son el reflejo ecológico de los grandes gradientes altitudinales que existen en Sierra Nevada. En ellos veremos diferentes tipos de ecosistemas que se adaptan a las condiciones ambientales circundantes. En el mapa también puedes ver una serie de puntos de colores que nos indican de forma orientativa los lugares en los que pararemos para explicar ciertas cuestiones de interés. Si haces click en cada punto verás una explicación parecida a la que daremos en campo.
+
+
+
+Además, aquí puedes descargar un archivo KMZ con el itinerario lineal y aquí otro con las paradas. Estos archivos son fácilmente importables en [Orux Maps](https://play.google.com/store/apps/details?id=com.orux.oruxmapsDonate&gl=US) (Android) y en Topo GPS (iPhone).
+
+
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=18J_lN_a4vQ8oRn6EqRBqh0QDG3lvYa0R&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -122,22 +142,6 @@ Nuestra excursión se desarrollará una finca denominada "Dehesa de San Juan". S
 ## Descripción del itinerario y de las paradas que realizaremos
 
 En el mapa del itinerario ([aquí](https://www.google.com/maps/d/u/1/edit?mid=1YwCDRAPcOW-5aPxbWUrI-w3T0X49vmql&usp=sharing) lo tienes de nuevo) puedes ver una serie de puntos que representan las paradas que realizaremos para aprender a interpretar el paisaje a la luz de la ecología. He seleccionado una serie de lugares en los que se observan cuestiones relacionadas con los temas principales de la asignatura. En cada una de esas paradas hay un texto descriptivo, así como fotografías o imágenes que lo ilustran.
-
-(en construcción)
-
-### Parada 3: Sucesión tras una perturbación
-
-+ *Descripción del sitio*: Se trata de una ladera orientada al norte que está cubierta por matorrales de alta montaña. Se observa una línea sin vegetación.
-+ *Interpretación a la luz de la ecología*: Aquí observamos las cicatrices que provocó la construcción de un remonte para esquiar en torno al 1960. Se destruyó completamente la vegetación  y hoy asistimos a un proceso de sucesión secundaria en el que poco a poco se va recuperando la cubierta vegetal. Este proceso de regeneración se puede constatar tanto mediante fotografía aérea (aumento de la cobertura) como mediante teledetección (tendencia positiva en el NDVI).
-+ *Material gráfico de interés*: Las siguientes imágenes muestran la situación anterior de manera gráfica. Se observa una serie de fotografías aéreas en las que se ve cómo la construcción del remote destruye la vegetación y luego ésta va regenerándose espontaneamente. Otra imagen muestra la tendencia de NDVI en esta zona, que constata la regeneración. 
-
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2020-2021/imagenes/parada_3_1956.png" alt="1956" style="zoom: 40%;" />
-
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2020-2021/imagenes/parada_3_1977.png" alt="1977" style="zoom:40%;" />
-
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2020-2021/imagenes/parada_3_2020.png" alt="2020" style="zoom:40%;" />
-
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2020-2021/imagenes/parada_3_NDVI.png" alt="NDVI" style="zoom:40%;" />
 
 
 
