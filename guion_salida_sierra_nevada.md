@@ -2,11 +2,11 @@
 
 
 > + **_Versión_**: 2021-2022
-> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales). Curso 2020-2021
+> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales). Curso 2021-2022
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Fecha y Duración_**:  25/05/2021. 13 horas...
 
-![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/portada.jpg)
 
 
 
@@ -82,7 +82,7 @@ El mapa que puedes ver a continuación describe con detalle el itinerario que se
 Es importante que te familiarices con la ruta que seguiremos. Aunque no tiene por qué pasar nada, es buena idea saber por dónde se mueve uno en la montaña. Para ello te recomiendo dos opciones:
 
 + Recorre el itinerario con tu móvil para que el recorrido se vaya guardando en la caché del dispositivo. Hazlo a través de [este](https://www.google.com/maps/d/u/0/edit?mid=18J_lN_a4vQ8oRn6EqRBqh0QDG3lvYa0R&usp=sharing) enlace.
-+ Además, [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/geoinfo/Itinerario.kmz) puedes descargar un archivo KMZ con el itinerario lineal y [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/geoinfo/Paradas.kmz) otro con las paradas. Estos archivos son fácilmente importables en aplicaciones para manejar cartografía en dispositivos móviles.  Si usas Android te recomiendo que descargues [Orux Maps](https://play.google.com/store/apps/details?id=com.orux.oruxmapsDonate&gl=US). Si usas iphone, descarga Topo GPS.
++ Además, [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/geoinfo/Itinerario.kmz) puedes descargar un archivo KMZ con el itinerario lineal y [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/geoinfo/Paradas.kmz) otro con las paradas. Estos archivos son fácilmente importables en aplicaciones para manejar cartografía en dispositivos móviles.  Si usas Android te recomiendo que descargues [Orux Maps](https://play.google.com/store/apps/details?id=com.orux.oruxmapsDonate&gl=US). Si usas iphone, descarga Topo GPS.
 
 
 
@@ -92,7 +92,7 @@ La siguiente imagen contiene el perfil altitudinal de la excursión. Como puedes
 
 
 
-![perfil](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2021-2022/imagenes/perfil.png)
+![perfil](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/2021--2022/imagenes/perfil.png)
 
 
 
@@ -113,7 +113,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 
 El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/ecosistemas.png)
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/ecosistemas.png)
 
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
@@ -122,11 +122,11 @@ Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
 
-![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/adaptaciones.png)
+![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
 
@@ -152,53 +152,53 @@ Para que este proceso funcione correctamente, debes de seguir los siguientes pas
 
 2. Una vez instalada, tienes que registrate en la aplicación. Toca el botón con líneas horizontales del extremo superior izquierdo de la pantalla y selecciona *Iniciar sesión*
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_2.PNG" alt="epicollect2" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_2.PNG" alt="epicollect2" style="zoom:23%;" />
 
 3. Haz click en *google Sign in* para seleccionar tu cuenta de google. En este proceso tendrás que poner tu contraseña de google y autorizar a epicollect para que pueda acceder usando tu usuario de google.
 
    
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_3.PNG" alt="epicollect3" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_3.PNG" alt="epicollect3" style="zoom:23%;" />
 
 4. Un vez registrado toca en añadir proyecto y pon "Salida Sierra..." en el recuadro de búsqueda.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_4.PNG" alt="epicollect4" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_4.PNG" alt="epicollect4" style="zoom:23%;" />
 
 5. Toca en el proyecto llamado *Salida Sierra Nevada 2022*. Aparecerá la opción de *Añadir entrada*
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_6.PNG" alt="epicollect6" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_6.PNG" alt="epicollect6" style="zoom:23%;" />
 
 6. Esta opción te permite completar un formulario para cada punto de interés que hayas localizado. En primer lugar has de introducir tu nombre.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_7.PNG" alt="epicollect7" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_7.PNG" alt="epicollect7" style="zoom:23%;" />
 
 7. Cuando lo hagas, toca en *Próx* (arriba a la derecha) para ir a la siguiente pregunta. En ella podrás escribir el texto que consideres de interés para interpretar el punto seleccionado con conceptos propios de la ecología.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_8.PNG" alt="epicollect8" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_8.PNG" alt="epicollect8" style="zoom:23%;" />
 
 8. También es posible añadir la ubicación. Esto es muy importante porque luego querremos poner todos los puntos en un mapa.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_9.PNG" alt="epicollect9" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_9.PNG" alt="epicollect9" style="zoom:23%;" />
 
 9. El siguiente paso consiste en añadir una fotografía. Hay dos pasos para añadir fotos.
 
-   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_10.PNG" alt="epicollect10" style="zoom:23%;" />
+   <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_10.PNG" alt="epicollect10" style="zoom:23%;" />
 
 10. A continuación se ofrece la posibilidad de grabar un vídeo.
 
-    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_12.PNG" alt="epicollect12" style="zoom:23%;" />
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_12.PNG" alt="epicollect12" style="zoom:23%;" />
 
 11. Por último, es posible grabar un audio para documentar el proceso.
 
-    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_13.PNG" alt="epicollect13" style="zoom:23%;" />
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_13.PNG" alt="epicollect13" style="zoom:23%;" />
 
 12. Una vez completada la captura de datos, es necesario guardar la entrada en el teléfono. 
 
-    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_14.PNG" alt="epicollect14" style="zoom:23%;" />
+    <img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_14.PNG" alt="epicollect14" style="zoom:23%;" />
 
 13. Si ha conexión a internet, es posible sincronizar nuestra base de datos con la central. Para ello hay que tocar en *Sincronizar ahora*. Esto abre una serie de pantallas que permiten ir subiendo a la nube los distintos apartados que hemos capturado anteriormente. Hay que ir tocando en los botones que van activándose de manera secuencial. Si no hay conexión a internet, se puede hacer más adelante.
 
-<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021-2022/imagenes/epicollect_15.PNG" alt="epicollect15" style="zoom:23%;" />
+<img src="https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/epicollect_15.PNG" alt="epicollect15" style="zoom:23%;" />
 
 ## Otras app de interés
 
