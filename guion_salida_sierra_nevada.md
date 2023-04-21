@@ -51,6 +51,7 @@ Los siguientes enlaces llevan a guiones con instrucciones para que cada grupo pr
 
 + [Matorrales de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/guion_matorrales_media_montania.html) Grupo 2.
 + [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html) Grupo 5.
++ [Pinares de repoblación de alta montaña](https://rawcdn.githack.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/guion_pinares_alta_montania.html). Grupo 5.
 
 ## Contextualización ecológica de la excursión
 
