@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Fecha y Duración_**:  18 y 19 de mayo de 2023
 
-![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/portada.jpg)
 
 
 
@@ -45,10 +45,45 @@ En construcción
 
 
 
-## Guiones de cada una de las paradas
+## Trabajo a realizar por parte de los estudiantes
+
+En esta excursión nos expondremos al "mundo real". Veremos in situ alguna de las cuestiones que hemos estudiado durante el cuatrimestre. Se trata, por tanto, de una oportunidad estupenda para que os expongáis a alguno de los factores que viviréis en pocos años, cuando acabéis de estudiar el grado. Será una exposición controlada, con una red de seguridad. Yo estaré siempre con vosotros acompañando y ayudando. En este sentido, cuando salgáis de la Universidad, comprobaréis que una de las situaciones más comunes consiste en que tienes que contarle a alguien algo que no controlas completamente y que no has tenido tiempo suficiente de preparar. Aunque esto parezca algo estresante, nuestro reto (uno de ellos) es que no lo sea. Tendréis que preparar una intervención para explicar a vuestros compañeros una serie de cuestiones relacionadas con las paradas que haremos en la excursión. 
+
+Antes de seguir describiendo lo que tenéis que hacer quiero dejar muy, pero que muy claro los siguientes puntos:
+
++ El objetivo último es que aprendáis en unas condiciones de incertidumbre. Todo está pensado para que aprendáis y para que lo pasemos bien. Así que fuera estrés. No seréis juzgados por lo bueno o malo que sea el resultado final. Es vuestra primera vez, así que es probable que no salga muy bien. Hemos venido a aprender, ¿no?. Si os pidiera cosas que ya sabéis, no aprenderíais... 
++ Vamos a simular que trabajamos juntos. Somo colegas de la universidad o de una empresa. Yo soy el  responsable del equipo de trabajo. Os encargaré cosas y vosotros tenéis que responder. Mi trabajo es guiaros, no castigar ni juzgar. 
++ Es importante que os comuniquéis conmigo. Por correo electrónico (bv2bogaf@uco.es) o por Telegram (@fjbonet). Preguntadme todas las dudas que os surjan. Escribid esas dudas en el texto que tenéis que entregar. En el abordaje de esas dudas está una parte del aprendizaje. 
++ Suena bien, pero esta actividad tendrá una nota, ¿no?. Es cierto. Concretamente esto aporta un 20% de la calificación final. Pero la calificación se realizará en virtud de lo que hayáis aprendido, no de lo bien o mal que haya salido el resultado. Valoraré vuestra implicación, vuestra capacidad de aprendizaje del error y vuestra iniciativa. 
++ Si a pesar de todo hay algún grupo que no quiere o puede entregar material antes de la excursión, no pasa nada. Yo me sé los temas de memoria, así que puedo contarlos sin problema. 
+
+Dicho esto, tenéis que hacer lo siguiente:
+
+Cada uno de los grupos que creamos en su momento tiene que preparar una o dos actividades en función de su tamaño. La actividad consiste, casi siempre, en presentar los temas importantes de cada una de las paradas. Se trata de hacer las veces de profesor/a contando a vuestros compañeros en qué consiste la parada en cuestión. Desde un punto de vista docente, esta técnica se llama "[aula invertida](https://es.wikipedia.org/wiki/Aula_invertida)". Es muy útil porque pemite a los estudiantes fijar mejor los conocimientos adquiridos, ya que son ellos los que preparan el material para explicar un "tema" a sus compañeros. El próximo curso usaremos mucho esta técnica de aprendizaje. 
+
+La realización de esta actividad tiene dos fases muy bien definidas:
+
++ Antes de la excursión: debéis de entregarme vía correo electrónico (bv2bogaf@uco.es) un breve texto (2-4) páginas describiendo el hilo argumental que seguiréis para explicar el tema que os ha tocado (ver siguiente sección). Se trata de un guión que os servirá para hacer la exposición durante la excursión. Yo leeré ese texto y os daré retroalimentación antes de la salida. La fecha límite para entregar este guión es el día **17 de mayo**. Si no lo entregáis arderéis en el infierno. No, es broma. Lo malo de no entregarlo sin que yo lo vea es que se dificultará un poco la exposición. Como no sabré lo que queréis decir, no podré ayudaros y os interrumpiré más de lo deseable. Así que, por favor, intentad entregadme algo. Es muy importante que el texto contenga lo siguiente:
+
+  + Hilo argumental que seguiréis durante la parada. No tiene que ser un texto muy elaborado. Basta una enumeración de conceptos o ideas. Esto no aplica para el grupo 1, que tiene unas instrucciones específicas en su guión. 
+  + Bibliografía que habéis consultado para construir el hilo argumental.
+  + Breve descripción de los principales problemas que habéis encontrado. 
+
++ Después de la excursión: Antes del **5 de junio a las 23:59** (esta fecha sí que es improrrobable por razones obvias) tenéis que entregar un documento con los siguientes contenidos:
+
+  + El mismo hilo argumental que entregásteis antes pero mejorado con la información aportada por estudiantes y demás asistentes. Podéis añadir mapas, imágenes de satélite, etc. No debe de superar las 5 páginas.
+  + Breve reflexión sobre cómo ha sido el trabjo en equipo. Indicad qué ha hecho cada uno de los miembros del equipo. Todos recibiréis la misma calificación, así que más os vale resolver los conflictos que surjan en el trabajo.
+  + Reflexión individualizada sobre el aprendizaje adquirido. Cada componente del equipo deberá escribir un párrafo indicando cuáles han sido sus aprendizajes más importantes al hacer esta actividad.
+  + Recopilación y respuesta a los comentarios que hagan los asistentes (estudiantes y profesores).
+  + Propuesta de pregunta de examen sobre la temática de la actividad. Pensad una pregunta cuya resolución implique un aprendizaje por parte de los estudiantes. 
+
+  
+
+
 
 Los siguientes enlaces llevan a guiones con instrucciones para que cada grupo prepare las paradas que tiene encomendadas. Ante cualquier duda, contactadme por la vía que prefiráis:
 
++ [Muestreos de diversidad](https://rawcdn.githack.com/aprendiendo-cosas/C_muestreo_diversidad_ecologia_ccaa/bd5a9aba8d00d722d26163da330d3c17a28d4f16/guion_muestreos_diversidad.html). Grupo 1
 + [Matorrales de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/guion_matorrales_media_montania.html) Grupo 2.
 + [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html) Grupo 5.
 + [Pinares de repoblación de alta montaña](https://rawcdn.githack.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/guion_pinares_alta_montania.html). Grupo 5.
