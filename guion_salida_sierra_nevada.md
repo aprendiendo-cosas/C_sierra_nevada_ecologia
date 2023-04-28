@@ -47,6 +47,8 @@ En construcción
 
 ## Trabajo a realizar por parte de los estudiantes
 
+### Aspectos generales
+
 En esta excursión nos expondremos al "mundo real". Veremos in situ alguna de las cuestiones que hemos estudiado durante el cuatrimestre. Se trata, por tanto, de una oportunidad estupenda para que os expongáis a alguno de los factores que viviréis en pocos años, cuando acabéis de estudiar el grado. Será una exposición controlada, con una red de seguridad. Yo estaré siempre con vosotros acompañando y ayudando. En este sentido, cuando salgáis de la Universidad, comprobaréis que una de las situaciones más comunes consiste en que tienes que contarle a alguien algo que no controlas completamente y que no has tenido tiempo suficiente de preparar. Aunque esto parezca algo estresante, nuestro reto (uno de ellos) es que no lo sea. Tendréis que preparar una intervención para explicar a vuestros compañeros una serie de cuestiones relacionadas con las paradas que haremos en la excursión. 
 
 Antes de seguir describiendo lo que tenéis que hacer quiero dejar muy, pero que muy claro los siguientes puntos:
@@ -77,9 +79,7 @@ La realización de esta actividad tiene dos fases muy bien definidas:
   + Recopilación y respuesta a los comentarios que hagan los asistentes (estudiantes y profesores).
   + Propuesta de pregunta de examen sobre la temática de la actividad. Pensad una pregunta cuya resolución implique un aprendizaje por parte de los estudiantes. 
 
-  
-
-
+### Material para preparar las actividades
 
 Los siguientes enlaces llevan a guiones con instrucciones para que cada grupo prepare las paradas que tiene encomendadas. Ante cualquier duda, contactadme por la vía que prefiráis:
 
@@ -88,6 +88,14 @@ Los siguientes enlaces llevan a guiones con instrucciones para que cada grupo pr
 + [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html) Grupo 5.
 + [Pinares de repoblación de alta montaña](https://rawcdn.githack.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_cca/main/guion_pinares_alta_montania.html). Grupo 5.
 + [Robledales.](https://rawcdn.githack.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/main/guion_robledales.html) Grupo 3.
+
+
+
+La siguiente tabla muestra la asignación de actividades a cada grupo. Los estudiantes cuyo nombre aparece con fondo verde son aquellos que asistirán a la salida.
+
+
+
+
 
 ## Contextualización ecológica de la excursión
 
