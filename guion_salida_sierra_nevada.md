@@ -42,6 +42,12 @@ En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos
 
 
 
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar.
+
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=866715431&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="880" -ms-zoom: 0.24></iframe>
+
 
 
 ## Recomendaciones y requisitos
@@ -121,7 +127,7 @@ La siguiente tabla muestra la asignación de actividades a cada grupo. Los estud
 
 En la tabla se muestran los nombres de las salidas con un enlace a una web que describe el trabajo que debe de realizar cada equipo. Los enlaces que faltan se actualizarán en breve.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rn8A9DPwPSz4BYqaMV5_WDZHRSENjFmKqSeiL8wayCEdgtVG-Tdf7RYY_lextA/pubhtml?gid=782396125&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="680"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=782396125&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="680"></iframe>
 
 
 
