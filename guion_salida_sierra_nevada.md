@@ -3,7 +3,7 @@
 
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (Ciencias ambientales). 
-> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
+> + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Óscar Pérez-Priego (g72pepro@uco.es)
 > + **_Fecha y Duración_**:  18 y 19 de mayo de 2023
 
 ![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/portada.jpg)
