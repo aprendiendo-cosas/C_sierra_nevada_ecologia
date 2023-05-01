@@ -42,8 +42,7 @@ En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar.
-
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En colores se remarcan las líneas en las que los estudiantes deberán hacer las explicaciones que se detallan en el siguiente apartado de este documento.
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=866715431&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="880" -ms-zoom: 0.24></iframe>
@@ -125,7 +124,7 @@ La realización de esta actividad tiene dos fases muy bien definidas:
 
 La siguiente tabla muestra la asignación de actividades a cada grupo. Los estudiantes cuyo nombre aparece con fondo verde son aquellos que asistirán a la salida. Se tienen en cuenta únicamente a los estudiantes de Ciencias Ambientales. El resto participarán como oyentes que aportarán su visión experta :)
 
-En la tabla se muestran los nombres de las salidas con un enlace a una web que describe el trabajo que debe de realizar cada equipo. Los enlaces que faltan se actualizarán en breve.
+En la tabla se muestran los nombres de las salidas con un enlace a una web (última columna de la tabla) que describe el trabajo que debe de realizar cada equipo. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=782396125&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="680"></iframe>
 
