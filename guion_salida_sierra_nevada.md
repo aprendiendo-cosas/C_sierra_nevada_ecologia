@@ -55,12 +55,12 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 + Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
 + Si te has apuntado a la actividad tienes la obligación moral de asistir. El dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
-+ Debes de llevar comida para todo el día 19. Recomiendo lo siguiente:
-  + Un desayuno energético: frutos secos o un bocadillo y fruta.
++ Debes de llevar comida para los dos días. Recomiendo lo siguiente:
+  + Cena del día 18. En la calle principal del pueblo hay muchos sitios donde cenar. Desde pizzas-kebabs hasta tapas diversas. También hay sitios de menú.
+  + Un desayuno energético: frutos secos o un bocadillo y fruta. También puedes desayunar en una de las muchas cafeterías que hay en el pueblo.
   + Un almuerzo no muy pesado (nada de callos...). Quizás otro bocata o una tortilla. También algo de fruta y quizás algo dulce para recargar energía.
   + Algo de picoteo para recuperar fuerzas durante la marcha: pasas, dátiles o barritas energéticas.
-+ La cena del día 18 corre a cargo de la UCO (**POR CONFIRMAR**)
-+ Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Yo llevaré lo segundo e intentaré llevar también pastillas, pero no es seguro. Diría que con 2 litros de agua por persona es suficiente, pero si tiendes a sudar mucho, echa 3.
++ Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Yo llevaré lo segundo e intentaré llevar también pastillas, pero no es seguro. Diría que con 2 litros de agua por persona es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
 + Crema solar. Estaremos todo el rato por encima de los 1000 m de altura. Espero que haga sol, así que las probabilidades de que nos quememos son altas. Esto es muy importante. Lleva crema protectora factor 50 y así evitarás quemaduras. Un gorro también estaría bien.
 + Gafas de Sol. Es recomendable usarlas en la montaña.
 + Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
@@ -75,7 +75,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
   + Paracetamol o similar: Si no estás acostumbrado a la altura puede dolerte la cabeza. El paracetamol o el ibuprofeno te ayudarán. Recuerda tomarlos con el estómago lleno (o al menos no vacío).
   + Si eres alérgico o asmático, dímelo cara a cara cuando empecemos a andar. Así estaremos pendientes de ti. No olvides tus antihistamínicos, ventolín o lo que sea. Si tienes urbasón en casa, échalo por si acaso.
 + Papel higiénico y alguna bolsa de plástico.
-+ Pernocta. Pasaremos la noche del día 18 en el polideportivo de Cenes De la Vega ([aquí](https://goo.gl/maps/29tVR6bnJN4W5p8w9)). El alcalde nos cede amable y gratuitamente las instalaciones para que pasemos la noche. Honremos ese regalo comportándonos como lo que somos: adultos civilizados. Para dormir vendrá bien que traigáis saco de dormir y colchoneta. Si alguien no tiene, puede traer sábanas y mantas. Yo estoy intentando conseguir algunos sacos y colchonetas extra por si hacen falta.
++ Pernocta. Pasaremos la noche del día 18 en el polideportivo de Cenes De la Vega ([aquí](https://goo.gl/maps/29tVR6bnJN4W5p8w9)). El alcalde nos cede amable y gratuitamente las instalaciones para que pasemos la noche. Honremos ese regalo comportándonos como lo que somos: adultos civilizados. Para dormir vendrá bien que traigáis saco de dormir y colchoneta. Si alguien no tiene, puede traer sábanas y mantas. 
 + Instala las siguientes aplicaciones en tu móvil:
   + [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). Si no tienes móvil sería bueno que trajeras una tablet o una cámara de fotos más un cuaderno. Usaremos la aplicación para hacer un ejercicio grupal.
   + PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a parti rde una fotografía de alguno de sus órganos. 
