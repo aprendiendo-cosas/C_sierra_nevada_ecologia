@@ -34,7 +34,7 @@ Esta práctica tiene los siguientes objetivos:
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
 + El autobús nos recogerá a las 16:00 del día 18 en las escaleras del edificio Paraninfo de Rabanales.
-+ Estaremos de vuelta el día 19 en torno a las 22:00. El autobús nos dejará en la estación de autobuses de Córdoba. 
++ Estaremos de vuelta el día 19 en torno a las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 18.
 
