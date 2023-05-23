@@ -109,7 +109,7 @@ La realización de esta actividad tiene dos fases muy bien definidas:
   + Bibliografía que habéis consultado para construir el hilo argumental.
   + Breve descripción de los principales problemas que habéis encontrado. 
 
-+ Después de la excursión: Antes del **5 de junio a las 23:59** (esta fecha sí que es improrrobable por razones obvias) tenéis que entregar un documento con los siguientes contenidos:
++ Después de la excursión: Antes del **5 de junio a las 23:59** (esta fecha sí que es improrrogable por razones obvias) tenéis que entregar un documento con los siguientes contenidos:
 
   + El mismo hilo argumental que entregásteis antes pero mejorado con la información aportada por estudiantes y demás asistentes. Podéis añadir mapas, imágenes de satélite, etc. No debe de superar las 5 páginas.
   + Breve reflexión sobre cómo ha sido el trabjo en equipo. Indicad qué ha hecho cada uno de los miembros del equipo. Todos recibiréis la misma calificación, así que más os vale resolver los conflictos que surjan en el trabajo.
