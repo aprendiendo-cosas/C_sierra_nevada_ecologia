@@ -6,7 +6,7 @@
 > + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Óscar Pérez-Priego (g72pepro@uco.es)
 > + **_Fecha y Duración_**:  18 y 19 de mayo de 2023
 
-![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/portada.jpg)
+![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/portada.jpg)
 
 
 
@@ -145,7 +145,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 
 El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/ecosistemas.png)
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/ecosistemas.png)
 
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
@@ -154,11 +154,11 @@ Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
 
-![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2021--2022/imagenes/adaptaciones.png)
+![adaptaciones](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
 
