@@ -1,10 +1,10 @@
 # Guión de la excursión a Sierra Nevada
 
 
-> + **_Versión_**: 2022-2023
-> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales). 
-> + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Óscar Pérez-Priego (g72pepro@uco.es)
-> + **_Fecha y Duración_**:  18 y 19 de mayo de 2023
+> + **_Versión_**: 2023-2024
+> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Cambio global (máster GEOFOREST), ...(falta incluir las demás)
+> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
+> + **_Fecha y Duración_**:  16 y 17 de mayo de 2024
 
 ![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/portada.jpg)
 
@@ -22,6 +22,7 @@ Esta práctica tiene los siguientes objetivos:
   + Experimentar en campo los retos de la gestión del medio natural.
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
 + Instrumentales:
+  + Interactuar con estudiantes de otros grados y másters. 
   + Pasar un rato al aire libre entre colegas y amigos :)
   + Disfrutar de la naturaleza.
   + Desconectar un poco de la dinámica del día a día...
@@ -33,19 +34,22 @@ Esta práctica tiene los siguientes objetivos:
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
-+ El autobús nos recogerá a las 16:00 del día 18 en las escaleras del edificio Paraninfo de Rabanales.
-+ Estaremos de vuelta el día 19 en torno a las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
++ El autobús nos recogerá a las xxxx (aún por concretar) del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
++ Estaremos de vuelta el día 17 en torno a las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
-En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 18.
+En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1j7aCwRMl_e7NL1P5sDUf_CV8M7howEE&ehbc=2E312F" width="640" height="680"></iframe>
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En colores se remarcan las líneas en las que los estudiantes deberán hacer las explicaciones que se detallan en el siguiente apartado de este documento.
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En color azul se señalan las paradas en las que los estudiantes de ciencias ambientales tendrán que explicar la estructura y dinámica de los ecosistemas que tienen asignados. 
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=866715431&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="880" -ms-zoom: 0.24></iframe>
+
+
+
+
 
 
 
