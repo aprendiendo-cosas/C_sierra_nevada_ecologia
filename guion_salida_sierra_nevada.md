@@ -1,10 +1,10 @@
 # Guión de la excursión a Sierra Nevada
 
 
-> + **_Versión_**: 2022-2023
-> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales). 
-> + **_Autores_**: Curro Bonet-García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Óscar Pérez-Priego (g72pepro@uco.es)
-> + **_Fecha y Duración_**:  18 y 19 de mayo de 2023
+> + **_Versión_**: 2023-2024
+> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Cambio global (máster GEOFOREST), ...(falta incluir las demás)
+> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
+> + **_Fecha y Duración_**:  16 y 17 de mayo de 2024
 
 ![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/portada.jpg)
 
@@ -22,6 +22,7 @@ Esta práctica tiene los siguientes objetivos:
   + Experimentar en campo los retos de la gestión del medio natural.
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
 + Instrumentales:
+  + Interactuar con estudiantes de otros grados y másters. 
   + Pasar un rato al aire libre entre colegas y amigos :)
   + Disfrutar de la naturaleza.
   + Desconectar un poco de la dinámica del día a día...
@@ -33,19 +34,29 @@ Esta práctica tiene los siguientes objetivos:
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
-+ El autobús nos recogerá a las 16:00 del día 18 en las escaleras del edificio Paraninfo de Rabanales.
-+ Estaremos de vuelta el día 19 en torno a las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
++ El autobús nos recogerá a las xxxx (aún por concretar) del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
++ Estaremos de vuelta el día 17 alrededor de las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
-En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 18.
+En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1j7aCwRMl_e7NL1P5sDUf_CV8M7howEE&ehbc=2E312F" width="640" height="680"></iframe>
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En colores se remarcan las líneas en las que los estudiantes deberán hacer las explicaciones que se detallan en el siguiente apartado de este documento.
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En color azul se señalan las paradas en las que los estudiantes de ciencias ambientales tendrán que explicar la estructura y dinámica de los ecosistemas que tienen asignados. 
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=866715431&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="880" -ms-zoom: 0.24></iframe>
+
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/mains/tabla_paradas.png)
+
+Por último, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de partica para preparar las exposiciones en cada parada:
+
+- [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html)
+- [Matorral de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/guion_matorrales_media_montania.html)
+- [Pinares de repoblación.](https://rawcdn.githack.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_ccaa/main/guion_pinares_alta_montania.html)
+- [Robledales](https://rawcdn.githack.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/main/guion_robledales.html)
+- [Piornales-enebrales.](https://rawcdn.githack.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/main/guion_piornal_enebral.html)
+- [Pastizales de alta montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/main/guion_pastizales_altamontania.html)
 
 
 
@@ -79,54 +90,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 + Instala las siguientes aplicaciones en tu móvil:
   + [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). Si no tienes móvil sería bueno que trajeras una tablet o una cámara de fotos más un cuaderno. Usaremos la aplicación para hacer un ejercicio grupal.
   + PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a parti rde una fotografía de alguno de sus órganos. 
-  + Picture Insectd ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
-
-
-
-## Trabajo a realizar por parte de los estudiantes
-
-### Aspectos generales
-
-En esta excursión nos expondremos al "mundo real". Veremos in situ alguna de las cuestiones que hemos estudiado durante el cuatrimestre. Se trata, por tanto, de una oportunidad estupenda para que os expongáis a alguno de los factores que viviréis en pocos años, cuando acabéis de estudiar el grado. Será una exposición controlada, con una red de seguridad. Yo estaré siempre con vosotros acompañando y ayudando. En este sentido, cuando salgáis de la Universidad, comprobaréis que una de las situaciones más comunes consiste en que tienes que contarle a alguien algo que no controlas completamente y que no has tenido tiempo suficiente de preparar. Aunque esto parezca algo estresante, nuestro reto (uno de ellos) es que no lo sea. Tendréis que preparar una intervención para explicar a vuestros compañeros una serie de cuestiones relacionadas con las paradas que haremos en la excursión. 
-
-Antes de seguir describiendo lo que tenéis que hacer quiero dejar muy, pero que muy claro los siguientes puntos:
-
-+ El objetivo último es que aprendáis en unas condiciones de incertidumbre. Todo está pensado para que aprendáis y para que lo pasemos bien. Así que fuera estrés. No seréis juzgados por lo bueno o malo que sea el resultado final. Es vuestra primera vez, así que es probable que no salga muy bien. Hemos venido a aprender, ¿no?. Si os pidiera cosas que ya sabéis, no aprenderíais... 
-+ Vamos a simular que trabajamos juntos. Somo colegas de la universidad o de una empresa. Yo soy el  responsable del equipo de trabajo. Os encargaré cosas y vosotros tenéis que responder. Mi trabajo es guiaros, no castigar ni juzgar. 
-+ Es importante que os comuniquéis conmigo. Por correo electrónico (bv2bogaf@uco.es) o por Telegram (@fjbonet). Preguntadme todas las dudas que os surjan. Escribid esas dudas en el texto que tenéis que entregar. En el abordaje de esas dudas está una parte del aprendizaje. 
-+ Suena bien, pero esta actividad tendrá una nota, ¿no?. Es cierto. Concretamente esto aporta un 20% de la calificación final. Pero la calificación se realizará en virtud de lo que hayáis aprendido, no de lo bien o mal que haya salido el resultado. Valoraré vuestra implicación, vuestra capacidad de aprendizaje del error y vuestra iniciativa. 
-+ Si a pesar de todo hay algún grupo que no quiere o puede entregar material antes de la excursión, no pasa nada. Yo me sé los temas de memoria, así que puedo contarlos sin problema. 
-
-Dicho esto, tenéis que hacer lo siguiente:
-
-Cada uno de los grupos que creamos en su momento tiene que preparar una o dos actividades en función de su tamaño. La actividad consiste, casi siempre, en presentar los temas importantes de cada una de las paradas. Se trata de hacer las veces de profesor/a contando a vuestros compañeros en qué consiste la parada en cuestión. Desde un punto de vista docente, esta técnica se llama "[aula invertida](https://es.wikipedia.org/wiki/Aula_invertida)". Es muy útil porque pemite a los estudiantes fijar mejor los conocimientos adquiridos, ya que son ellos los que preparan el material para explicar un "tema" a sus compañeros. El próximo curso usaremos mucho esta técnica de aprendizaje. 
-
-La realización de esta actividad tiene dos fases muy bien definidas:
-
-+ Antes de la excursión: debéis de entregarme vía correo electrónico (bv2bogaf@uco.es) un breve texto (2-4) páginas describiendo el hilo argumental que seguiréis para explicar el tema que os ha tocado (ver siguiente sección). Se trata de un guión que os servirá para hacer la exposición durante la excursión. Yo leeré ese texto y os daré retroalimentación antes de la salida. La fecha límite para entregar este guión es el día **17 de mayo**. Si no lo entregáis arderéis en el infierno. No, es broma. Lo malo de no entregarlo sin que yo lo vea es que se dificultará un poco la exposición. Como no sabré lo que queréis decir, no podré ayudaros y os interrumpiré más de lo deseable. Así que, por favor, intentad entregadme algo. Es muy importante que el texto contenga lo siguiente:
-
-  + Hilo argumental que seguiréis durante la parada. No tiene que ser un texto muy elaborado. Basta una enumeración de conceptos o ideas. Esto no aplica para el grupo 1, que tiene unas instrucciones específicas en su guión. 
-  + Bibliografía que habéis consultado para construir el hilo argumental.
-  + Breve descripción de los principales problemas que habéis encontrado. 
-
-+ Después de la excursión: Antes del **5 de junio a las 23:59** (esta fecha sí que es improrrogable por razones obvias) tenéis que entregar un documento con los siguientes contenidos:
-
-  + El mismo hilo argumental que entregásteis antes pero mejorado con la información aportada por estudiantes y demás asistentes. Podéis añadir mapas, imágenes de satélite, etc. No debe de superar las 5 páginas.
-  + Breve reflexión sobre cómo ha sido el trabjo en equipo. Indicad qué ha hecho cada uno de los miembros del equipo. Todos recibiréis la misma calificación, así que más os vale resolver los conflictos que surjan en el trabajo.
-  + Reflexión individualizada sobre el aprendizaje adquirido. Cada componente del equipo deberá escribir un párrafo indicando cuáles han sido sus aprendizajes más importantes al hacer esta actividad.
-  + Recopilación y respuesta a los comentarios que hagan los asistentes (estudiantes y profesores).
-  + Propuesta de pregunta de examen sobre la temática de la actividad. Pensad una pregunta cuya resolución implique un aprendizaje por parte de los estudiantes. 
-
-
-
-### Material para preparar las actividades
-
-
-La siguiente tabla muestra la asignación de actividades a cada grupo. Los estudiantes cuyo nombre aparece con fondo verde son aquellos que asistirán a la salida. Se tienen en cuenta únicamente a los estudiantes de Ciencias Ambientales. El resto participarán como oyentes que aportarán su visión experta :)
-
-En la tabla se muestran los nombres de las salidas con un enlace a una web (última columna de la tabla) que describe el trabajo que debe de realizar cada equipo. 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQB9GEF5yKQH9tcTGB-3P0Xp4XqjzUb5aYl3lFOIjDzcN-oICnsvtnzinfzkJDcO_THEz7JH0yfPjHE/pubhtml?gid=782396125&amp;single=true&amp;widget=true&amp;headers=false" width="640" height="680"></iframe>
+  + Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
 
 
 
