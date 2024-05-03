@@ -47,7 +47,7 @@ La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 
 
 
-![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/mains/tabla_paradas.png)
+![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/tabla_paradas.png)
 
 Por último, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de partica para preparar las exposiciones en cada parada:
 
