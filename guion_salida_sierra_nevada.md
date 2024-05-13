@@ -34,7 +34,7 @@ Esta práctica tiene los siguientes objetivos:
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
-+ El autobús nos recogerá a las 16:00 del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
++ El autobús nos recogerá a las 15:30 del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
 + Estaremos de vuelta el día 17 alrededor de las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
@@ -43,13 +43,13 @@ En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. Esta hoja irá cambiando porque aún faltan algunas cosas por concretar. En color azul se señalan las paradas en las que los estudiantes de ciencias ambientales tendrán que explicar la estructura y dinámica de los ecosistemas que tienen asignados. 
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. En color azul se señalan las paradas en las que los estudiantes de ciencias ambientales tendrán que explicar la estructura y dinámica de los ecosistemas que tienen asignados. 
 
 
 
 ![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/tabla_paradas.png)
 
-Por último, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de prática para preparar las exposiciones en cada parada:
+Además, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de prática para preparar las exposiciones en cada parada:
 
 - [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html)
 - [Matorral de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/guion_matorrales_media_montania.html)
@@ -60,12 +60,18 @@ Por último, a continuación se muestran los guiones que los estudiantes de cien
 
 Para los estudiantes de cambio global, estos son los aspectos que veremos en cada una de las paradas. Si queréis ver mas detalles sobre cada ecosistema podéis ver los distintos guiones indicados arriba.
 
-- Bosque de ribera. Especies invasoras: el caso de estudio de Ailanthus altissima. [Invasiones biológicas video Canal Sur](https://www.cedecom.es/noticias/especies-exoticas-invasoras/)
-- Matorral de media montaña. Cambio climático e Incendios forestales [Trumbore et al 2015](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/pdf/trumbore2015_globalchangeforests.pdf) 
-- Pinares de repoblación. Cambio climático y decaimiento forestal [Allen et al 2010 global tree mortality](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/pdf/allen2010_forestdecay.pdf)
-- Robledales. Cambio climático y fenología. [Piao et al. 2019 Plant phenology](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/pdf/piao2019_plantphenology.pdf)
+- Bosque de ribera. Especies invasoras: el caso de estudio de *Ailanthus altissima*. [Invasiones biológicas video Canal Sur](https://www.cedecom.es/noticias/especies-exoticas-invasoras/)
+- Matorral de media montaña. Cambio climático e Incendios forestales [Trumbore et al 2015](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/biblio/trumbore2015_globalchangeforests.pdf) 
+- Pinares de repoblación. Cambio climático y decaimiento forestal [Allen et al 2010 global tree mortality](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/biblio/allen2010_forestdecay.pdf)
+- Robledales. Cambio climático y fenología. [Piao et al. 2019 Plant phenology](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/main/biblio/piao2019_plantphenology.pdf)
 - Piornales-enebrales. Fragmentación y pérdida de hábitat [Enebrales Sierra Nevada pag. 47](https://obsnev.es/wp-content/uploads/2024/02/manual-enebros-digial_2.pdf)
 - Pastizales de alta montaña. Seguimiento del cambio global: [Observatorio del cambio global de Sierra Nevada](https://obsnev.es/wp-content/uploads/2019/11/Dossier_Resultados_OCGSN_2015.pdf). Redes [Gloria](https://gloria.ac.at/network/) y [MIREN](https://www.mountaininvasions.org/)
+
+
+
+Por último, tanto el jueves 16 como el viernes 17 haremos algún muestreo sencillo de aves. En [este](https://rawcdn.githack.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/2023_2024/guion_muestreos_aves.html) guión tenéis los detalles. Por favor, leedlo con atención.
+
+
 
 ## Recomendaciones y requisitos
 
@@ -73,7 +79,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 + Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
 + Si te has apuntado a la actividad tienes la obligación moral de asistir. El dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
-+ Debes de llevar comida para los dos días. Recomiendo lo siguiente:
++ Debes de llevar comida para los dos días. Recomiendamos lo siguiente:
   + Cena del día 16. En la calle principal del pueblo hay muchos sitios donde cenar. Desde pizzas-kebabs hasta tapas diversas. También hay sitios de menú.
   + Un desayuno energético: frutos secos o un bocadillo y fruta. También puedes desayunar en una de las muchas cafeterías que hay en el pueblo.
   + Un almuerzo no muy pesado (nada de callos...). Quizás otro bocata o una tortilla. También algo de fruta y quizás algo dulce para recargar energía.
@@ -85,7 +91,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
   + Pantalón largo: No hará tanto calor como para llevar pantalón corto. Además, con el corto evitamos rozaduras y reducimos el riesgo de que alguna garrapata o pulga intente invadirnos...
   + Camiseta interior de licra y de manga corta. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
   + Jersey o forro polar. Haremos una pequeña ruta que empieza en torno a los 2300 m. La temperatura prevista para esa zona es de 5-10º. A esa altura hace frío casi todo el año. 
-  + Chubasquero o cortavientos: el tiempo de la montaña es cambiante, así que es buena idea llevar algo para protegerse de un chubasco imprevisto y del viento. No traigas paraguas. En la montaña son un peligro porque actúan de pararayos. Si eres friolero/a, echa un abrigo, pero no muy gordo porque te sobrará al final del día. 
+  + Abrigo y chubasquero o cortavientos: el tiempo de la montaña es cambiante, así que es buena idea llevar algo para protegerse de un chubasco imprevisto y del viento. No traigas paraguas. En la montaña son un peligro porque actúan de pararayos. Echad también un abrigo. Quizás no muy gordo. 
   + Calzado cómodo: Unas zapatillas de deporte o unas botas bajas serán suficiente siempre que tengan la suela en condiciones. Si la suela está plana resbalarás y resultará incómodo. Si te has comprado unas botas hace poco, llévalas puestas todos los días antes de la excursión. Así se amoldarán a tu pie y te dolerá menos.
 + Mochila cómoda: esto es importante. Si tu mochila no es cómoda busca otra si no quieres ir con molestias todo el camino.
 + Medicamentos: Yo llevaré un botiquín con algunas cosas de primeros auxilios. Además de eso:
