@@ -14,7 +14,7 @@
 
 ## Objetivos
 
-Esta práctica tiene los siguientes objetivos:
+Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 + Disciplinares:
   + Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en la asignatura.
   + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
@@ -70,6 +70,15 @@ Para los estudiantes de cambio global, estos son los aspectos que veremos en cad
 
 
 Por último, tanto el jueves 16 como el viernes 17 haremos algún muestreo sencillo de aves. En [este](https://rawcdn.githack.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/2023_2024/guion_muestreos_aves.html) guión tenéis los detalles. Por favor, leedlo con atención.
+
+
+
+En cada parada la mecánica será algo parecido a esto:
+
++ En primer lugar los profesores introducirán el lugar en el que estemos.
++ Los estudiantes de ambientales describirán el ecosistema en cuestión.
++ Los demás compañeros y profesores harán preguntas al grupo que ha expuesto.
++ Los profesores añadirán información sobre los impactos del cambio global en cada ecosistema.
 
 
 
