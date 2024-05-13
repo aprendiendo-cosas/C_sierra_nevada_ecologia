@@ -58,13 +58,14 @@ Por último, a continuación se muestran los guiones que los estudiantes de cien
 - [Piornales-enebrales.](https://rawcdn.githack.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/main/guion_piornal_enebral.html)
 - [Pastizales de alta montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/main/guion_pastizales_altamontania.html)
 
-Para los estudiantes de cambio global, estos son los aspectos que veremos en cada una de las paradas. Si queréis ver mas detalles sobre cada ecosistema podéis ver los distintos guiones indicados arriba. 
-- Bosque de ribera. Especies invasoras: el caso de estudio de Ailanthus altissima
-- Matorral de media montaña. Cambio climático e Incendios forestales: recuperación de la vegetación tras perturbaciones. 
-- Pinares de repoblación. Cambio climático y decaimiento forestal
-- Robledales. Cambio climático y fenología
-- Piornales-enebrales. Fragmentación y pérdida de hábitat
-- Pastizales de alta montaña. Seguimiento del cambio global: observatorio del cambio global. Redes Gloria y MIREN
+Para los estudiantes de cambio global, estos son los aspectos que veremos en cada una de las paradas. Si queréis ver mas detalles sobre cada ecosistema podéis ver los distintos guiones indicados arriba.
+
+- Bosque de ribera. Especies invasoras: el caso de estudio de Ailanthus altissima. [Invasiones biológicas video Canal Sur](https://www.cedecom.es/noticias/especies-exoticas-invasoras/)
+- Matorral de media montaña. Cambio climático e Incendios forestales [Trumbore et al 2015](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/pdf/trumbore2015_globalchangeforests.pdf) 
+- Pinares de repoblación. Cambio climático y decaimiento forestal [Allen et al 2010 global tree mortality](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/pdf/allen2010_forestdecay.pdf)
+- Robledales. Cambio climático y fenología. [Piao et al. 2019 Plant phenology](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/pdf/piao2019_plantphenology.pdf)
+- Piornales-enebrales. Fragmentación y pérdida de hábitat [Enebrales Sierra Nevada pag. 47](https://obsnev.es/wp-content/uploads/2024/02/manual-enebros-digial_2.pdf)
+- Pastizales de alta montaña. Seguimiento del cambio global: [Observatorio del cambio global de Sierra Nevada](https://obsnev.es/wp-content/uploads/2019/11/Dossier_Resultados_OCGSN_2015.pdf). Redes [Gloria](https://gloria.ac.at/network/) y [MIREN](https://www.mountaininvasions.org/)
 
 ## Recomendaciones y requisitos
 
