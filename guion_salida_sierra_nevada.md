@@ -49,7 +49,7 @@ La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 
 ![ecosistemas](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/main/imagenes/tabla_paradas.png)
 
-Por último, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de partica para preparar las exposiciones en cada parada:
+Por último, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de prática para preparar las exposiciones en cada parada:
 
 - [Bosque de ribera.](https://rawcdn.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/main/guion_bosque_ribera.html)
 - [Matorral de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/main/guion_matorrales_media_montania.html)
@@ -58,7 +58,13 @@ Por último, a continuación se muestran los guiones que los estudiantes de cien
 - [Piornales-enebrales.](https://rawcdn.githack.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/main/guion_piornal_enebral.html)
 - [Pastizales de alta montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/main/guion_pastizales_altamontania.html)
 
-
+Para los estudiantes de cambio global, estos son los aspectos que veremos en cada una de las paradas. Si queréis ver mas detalles sobre cada ecosistema podéis ver los distintos guiones indicados arriba. 
+- Bosque de ribera. Especies invasoras: el caso de estudio de Ailanthus altissima
+- Matorral de media montaña. Cambio climático e Incendios forestales: recuperación de la vegetación tras perturbaciones. 
+- Pinares de repoblación. Cambio climático y decaimiento forestal
+- Robledales. Cambio climático y fenología
+- Piornales-enebrales. Fragmentación y pérdida de hábitat
+- Pastizales de alta montaña. Seguimiento del cambio global: observatorio del cambio global. Redes Gloria y MIREN
 
 ## Recomendaciones y requisitos
 
@@ -77,7 +83,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 + Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
   + Pantalón largo: No hará tanto calor como para llevar pantalón corto. Además, con el corto evitamos rozaduras y reducimos el riesgo de que alguna garrapata o pulga intente invadirnos...
   + Camiseta interior de licra y de manga corta. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
-  + Jersey o forro polar no demasiado grueso. Haremos una pequeña ruta que empieza en torno a los 2300 m. A esa altura hace frío casi todo el año. 
+  + Jersey o forro polar. Haremos una pequeña ruta que empieza en torno a los 2300 m. La temperatura prevista para esa zona es de 5-10º. A esa altura hace frío casi todo el año. 
   + Chubasquero o cortavientos (abrigo no): el tiempo de la montaña es cambiante, así que es buena idea llevar algo para protegerse de un chubasco imprevisto. No traigas paraguas. En la montaña son un peligro porque actúan de pararayos. Si eres friolero/a, echa un abrigo, pero no muy gordo porque te sobrará al final del día. 
   + Calzado cómodo: Unas zapatillas de deporte o unas botas bajas serán suficiente siempre que tengan la suela en condiciones. Si la suela está plana resbalarás y resultará incómodo. Si te has comprado unas botas hace poco, llévalas puestas todos los días antes de la excursión. Así se amoldarán a tu pie y te dolerá menos.
 + Mochila cómoda: esto es importante. Si tu mochila no es cómoda busca otra si no quieres ir con molestias todo el camino.
