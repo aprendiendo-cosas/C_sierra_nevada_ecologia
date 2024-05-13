@@ -3,7 +3,7 @@
 
 > + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Cambio global (máster GEOFOREST), ...(falta incluir las demás)
-> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios Rodríguez (gpalacios@uco.es) y Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
+> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
 > + **_Fecha y Duración_**:  16 y 17 de mayo de 2024
 
 ![portada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/raw/2022-2023/imagenes/portada.jpg)
@@ -34,7 +34,7 @@ Esta práctica tiene los siguientes objetivos:
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
-+ El autobús nos recogerá a las xxxx (aún por concretar) del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
++ El autobús nos recogerá a las 16:00 del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
 + Estaremos de vuelta el día 17 alrededor de las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
