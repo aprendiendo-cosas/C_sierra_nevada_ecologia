@@ -1,16 +1,17 @@
 # Guión de la excursión a Sierra Nevada
 
 
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;">Salidad campo</span> 
+> + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal) y Cambio global (máster GEOFOREST).
-> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
-> + **_Fecha y Duración_**:  16 y 17 de mayo de 2024
+> + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  ....
+> + **_Fecha y Duración_**:  7 y 8 de noviembre de 2024
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/portada.jpg)
 
 
 
-## Objetivos
+## Objetivos [REVISAR TODOS]
 
 Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 + Disciplinares:
@@ -28,7 +29,7 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 
 
 
-## Itinerario y aspectos logísticos
+## Itinerario [CURRO ACTUALIZA MAPA]
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
@@ -45,11 +46,47 @@ La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 
 
 
-![paradas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/tabla_paradas.png)
+## Contextualización ecológica de Sierra Nevada
+
+Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
+
+El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
+
++ Bosques naturales: encinares, robledales de *Quercus pyrenaica*, coscojales (*Quercus coccifera*) y quejigales (*Quercus faginea*) son las formaciones más abundantes de este tipo.
++ Pinares de repoblación: Ocupan unas 40.000 Has y fueron plantados en las primeras décadas del siglo XX para frenar la erosión que era muy intensa tras décadas de uso insostenible de los bosques.
++ Matorrales de media montaña: Son muy abundantes por debajo de los 2000 m de altitud, sobre todo en la parte oriental que es más árida.
++ Matorrales de alta montaña: Por encima del límite del árbol crecen matorrales leñosos que están adaptados a vivir en un ambiente frío y seco.
++ Pastizales de alta montaña: Más arriba todavía, por encima de los 2600 m la vida vegetal se restringe a un pastizal poco denso que vive sobre el suelo desnudo y está adaptado a condiciones climáticas extremas.
++ Sistemas acuáticos: En Sierra Nevada son muy abundantes las lagunas de origen glacial. En ellas se desarrolla un ecosistema muy interesante propio de zonas alpinas. 
+
+El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
+
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/ecosistemas.png)
+
+
+Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
 
 
 
-Además, a continuación se muestran los guiones que los estudiantes de ciencias ambientales usarán como material de prática para preparar las exposiciones en cada parada:
+La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
+
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
+
+Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
+
+![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
+
+Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
+
+
+
+## Trabajo a realizar en campo [TODOS CONTRIBUIMOS]
+
+Sugiero ir describiendo brevemente qué veremos en cada parada. TAmbien describir el formulario de captura de datos que CUrro pondrá en epicollect
+
+
+
+[PENSAR EN QUÉ MEDIDA TIENE INTERÉS QUE LES PASEMOS EL MATERIAL DESCRITO EN LOS SIGUIENTES GUIONES. HABRÍA QUE CAMBIARLO LIGERAMENTE]
 
 - [Bosque de ribera.](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
 - [Matorral de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/2023_2024/guion_matorrales_media_montania.html)
@@ -69,20 +106,12 @@ Para los estudiantes de cambio global, estos son los aspectos que veremos en cad
 
 
 
-Por último, tanto el jueves 16 como el viernes 17 haremos algún muestreo sencillo de aves. En [este](https://rawcdn.githack.com/aprendiendo-cosas/C_muestreo_aves_ecologia_ccaa/2023_2024/guion_muestreos_aves.html) guión tenéis los detalles. Por favor, leedlo con atención.
++ 
 
 
 
-En cada parada la mecánica será algo parecido a esto:
 
-+ En primer lugar los profesores introducirán el lugar en el que estemos.
-+ Los estudiantes de ambientales describirán el ecosistema en cuestión.
-+ Los demás compañeros y profesores harán preguntas al grupo que ha expuesto.
-+ Los profesores añadirán información sobre los impactos del cambio global en cada ecosistema.
-
-
-
-## Recomendaciones y requisitos
+## Recomendaciones y requisitos [todos revisamos. adaptar a invierno]
 
 La siguiente lista contiene las indicaciones que deberás tener en cuenta para preparar la actividad y durante su realización. 
 
@@ -116,37 +145,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 
 
-## Contextualización ecológica de la excursión
 
-Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
-
-El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
-
-+ Bosques naturales: encinares, robledales de *Quercus pyrenaica*, coscojales (*Quercus coccifera*) y quejigales (*Quercus faginea*) son las formaciones más abundantes de este tipo.
-+ Pinares de repoblación: Ocupan unas 40.000 Has y fueron plantados en las primeras décadas del siglo XX para frenar la erosión que era muy intensa tras décadas de uso insostenible de los bosques.
-+ Matorrales de media montaña: Son muy abundantes por debajo de los 2000 m de altitud, sobre todo en la parte oriental que es más árida.
-+ Matorrales de alta montaña: Por encima del límite del árbol crecen matorrales leñosos que están adaptados a vivir en un ambiente frío y seco.
-+ Pastizales de alta montaña: Más arriba todavía, por encima de los 2600 m la vida vegetal se restringe a un pastizal poco denso que vive sobre el suelo desnudo y está adaptado a condiciones climáticas extremas.
-+ Sistemas acuáticos: En Sierra Nevada son muy abundantes las lagunas de origen glacial. En ellas se desarrolla un ecosistema muy interesante propio de zonas alpinas. 
-
-El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
-
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/ecosistemas.png)
-
-
-Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
-
-
-
-La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
-
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
-
-Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
-
-![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
-
-Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
 
 
 
