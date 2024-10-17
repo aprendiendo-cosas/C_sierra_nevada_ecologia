@@ -6,7 +6,7 @@
 > + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  Antonio José Carpio Camargo (a.carpio.camargo@gmail.com)
 > + **_Fecha y Duración_**:  16 y 17 de mayo de 2024
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/portada.jpg)
 
 
 
@@ -45,7 +45,7 @@ La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 
 
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023_2024/imagenes/portada.png)
+![paradas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/tabla_paradas.png)
 
 
 
@@ -54,16 +54,16 @@ Además, a continuación se muestran los guiones que los estudiantes de ciencias
 - [Bosque de ribera.](https://raw.githack.com/aprendiendo-cosas/C_bosque_ribera_ecologia_ccaa/2023-2024/guion_bosque_ribera.html)
 - [Matorral de media montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_matorrales_media_montania_ecologia_ccaa/2023_2024/guion_matorrales_media_montania.html)
 - [Pinares de repoblación.](https://rawcdn.githack.com/aprendiendo-cosas/C_pinares_alta_montania_ecologia_ccaa/main/guion_pinares_alta_montania.html)
-- [Robledales](https://rawcdn.githack.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/2023_2024/guion_robledales.html)
+- [Robledales](https://rawcdn.githack.com/aprendiendo-cosas/C_robledales_ecologia_ccaa/2023-2024/guion_robledales.html)
 - [Piornales-enebrales.](https://rawcdn.githack.com/aprendiendo-cosas/C_piornal_enebral_ecologia_ccaa/2023_2024/guion_piornal_enebral.html)
 - [Pastizales de alta montaña.](https://rawcdn.githack.com/aprendiendo-cosas/C_pastizales_altamontania_ecologia_ccaa/2023_2024/guion_pastizales_altamontania.html)
 
 Para los estudiantes de cambio global, estos son los aspectos que veremos en cada una de las paradas. Si queréis ver mas detalles sobre cada ecosistema podéis ver los distintos guiones indicados arriba.
 
 - Bosque de ribera. Especies invasoras: el caso de estudio de *Ailanthus altissima*. [Invasiones biológicas video Canal Sur](https://www.cedecom.es/noticias/especies-exoticas-invasoras/)
-- Matorral de media montaña. Cambio climático e Incendios forestales [Trumbore et al 2015](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023_2024/biblio/trumbore2015_globalchangeforests.pdf) 
-- Pinares de repoblación. Cambio climático y decaimiento forestal [Allen et al 2010 global tree mortality](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023_2024/biblio/allen2010_forestdecay.pdf)
-- Robledales. Cambio climático y fenología. [Piao et al. 2019 Plant phenology](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023_2024/biblio/piao2019_plantphenology.pdf)
+- Matorral de media montaña. Cambio climático e Incendios forestales [Trumbore et al 2015](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023-2024/biblio/trumbore2015_globalchangeforests.pdf) 
+- Pinares de repoblación. Cambio climático y decaimiento forestal [Allen et al 2010 global tree mortality](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023-2024/biblio/allen2010_forestdecay.pdf)
+- Robledales. Cambio climático y fenología. [Piao et al. 2019 Plant phenology](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/blob/2023-2024/biblio/piao2019_plantphenology.pdf)
 - Piornales-enebrales. Fragmentación y pérdida de hábitat [Enebrales Sierra Nevada pag. 47](https://obsnev.es/wp-content/uploads/2024/02/manual-enebros-digial_2.pdf)
 - Pastizales de alta montaña. Seguimiento del cambio global: [Observatorio del cambio global de Sierra Nevada](https://obsnev.es/wp-content/uploads/2019/11/Dossier_Resultados_OCGSN_2015.pdf). Redes [Gloria](https://gloria.ac.at/network/) y [MIREN](https://www.mountaininvasions.org/)
 
@@ -131,7 +131,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 
 El siguiente mapa muestra la distribución de estos ecosistemas principales. En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos. 
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023_2024/imagenes/ecosistemas.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/ecosistemas.png)
 
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas. La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation) Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo. Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
@@ -140,11 +140,11 @@ Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023_2024/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
 
-![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023_2024/imagenes/adaptaciones.png)
+![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía. 
 
