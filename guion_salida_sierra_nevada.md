@@ -7,29 +7,29 @@
 > + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  ....
 > + **_Fecha y Duración_**:  7 y 8 de noviembre de 2024
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
 
 
-## Objetivos [REVISAR TODOS]
+## Objetivos
 
 Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 + Disciplinares:
-  + Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en la asignatura.
+  + Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en las asignaturas involucradas.
   + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
   + Experimentar de primera mano la complejidad de la naturaleza.
   + Experimentar en campo los retos de la gestión del medio natural.
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
+  + Aprender a tomar datos ecológicos en campo.
 + Instrumentales:
   + Interactuar con estudiantes de otros grados y másters. 
   + Pasar un rato al aire libre entre colegas y amigos :)
   + Disfrutar de la naturaleza.
-  + Desconectar un poco de la dinámica del día a día...
-  
+  + Desconectar un poco de la dinámica del día a día.
 
 
 
-## Itinerario [CURRO ACTUALIZA MAPA]
+## Itinerario
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
@@ -38,7 +38,7 @@ El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran 
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1j7aCwRMl_e7NL1P5sDUf_CV8M7howEE&ehbc=2E312F" width="640" height="680"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 
