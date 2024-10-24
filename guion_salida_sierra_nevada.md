@@ -29,20 +29,24 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 
 
 
-## Itinerario
+## Itinerario y actividades a realizar
 
 El siguiente mapa muestra todo el itinerario que seguiremos. En él se muestran también los puntos de salida y de llegada:
 
-+ El autobús nos recogerá a las 15:30 del día 16 de mayo en las escaleras del edificio Paraninfo de Rabanales.
-+ Estaremos de vuelta el día 17 alrededor de las 21:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
++ El autobús nos recogerá a las 15:30 del día 7 de noviembre en las escaleras del edificio Paraninfo de Rabanales.
++ Estaremos de vuelta el día 8 alrededor de las 20:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba. 
 
-En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 16.
+En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 7.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. En color azul se señalan las paradas en las que los estudiantes de ciencias ambientales tendrán que explicar la estructura y dinámica de los ecosistemas que tienen asignados. 
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. En color azul se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, etc.
+
+Para preparar la salida, es muy recomendable que los estudiantes descarguen y lean el siguiente material:
+
++ 
 
 
 
