@@ -3,7 +3,7 @@
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;">Salidad campo</span> 
 > + **_Versión_**: 2024-2025
-> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal) y Cambio global (máster GEOFOREST).
+> + **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
 > + **_Autores_**: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es),  ....
 > + **_Fecha y Duración_**:  7 y 8 de noviembre de 2024
 
@@ -22,7 +22,7 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
   + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
   + Aprender a tomar datos ecológicos en campo.
 + Instrumentales:
-  + Interactuar con estudiantes de otros grados y másters. 
+  + Interactuar con estudiantes de otros grados. 
   + Pasar un rato al aire libre entre colegas y amigos :)
   + Disfrutar de la naturaleza.
   + Desconectar un poco de la dinámica del día a día.
@@ -52,7 +52,7 @@ La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos
 
 ![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
 
-Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que facilita su desplazamiento en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
+Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos. También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que garantiza su desplazamiento fijo al sustrato en un ambiente muy ventoso). El siguiente esquema muestra alguna de estas adaptaciones. 
 
 ![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
 
@@ -98,11 +98,11 @@ Además de explicar cuestiones diversas en cada una de las paradas, capturaremos
 La siguiente lista contiene las indicaciones que deberás tener en cuenta para preparar la actividad y durante su realización. 
 
 + Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
-+ Si te has apuntado a la actividad tienes la obligación moral de asistir. La mayoría dell dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
++ Si te has apuntado a la actividad tienes la obligación moral de asistir. La mayoría del dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
 + Aún así, has de pagar 10€ si quieres asistir. Dáselos antes del día 7 a tu profesor. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará si no dispone de recursos.
 + La excursión incluye el autobús, la cena del día 7, la noche del día 7 y el desayuno del día 8. Así que solo tendrás que traer comida para el día 8. Si quieres traer más, está bien. Para el almuerzo del día 8 recomendamos algo no muy pesado (nada de callos...). Quizás otro bocata o una tortilla. También algo de fruta y quizás algo dulce para recargar energía. Si quieres puedes traer algo de picoteo para recuperar fuerzas durante la marcha: pasas, dátiles o barritas energéticas.
 + Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Diría que con 2 litros de agua por persona es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
-+ Gafas de Sol. Es recomendable usarlas en la montaña.
++ Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada.
 + Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
   + Pantalón largo.
   + Camiseta interior de licra. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
