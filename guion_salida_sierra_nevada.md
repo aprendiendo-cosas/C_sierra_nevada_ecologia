@@ -1,46 +1,50 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Guión de la excursión a Sierra Nevada
 
-> -   ***Tipo de material***: [Salidad campo]{style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"}
-> -   ***Versión***: 2024-2025
-> -   ***Asignatura (grado)***: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
-> -   ***Autores***: Curro Bonet García ([fjbonet\@uco.es](mailto:fjbonet@uco.es){.email}), Pablo González Moreno ([ir2gomop\@uco.es](mailto:ir2gomop@uco.es){.email}), ....
-> -   ***Fecha y Duración***: 7 y 8 de noviembre de 2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
+> + **Versión**: 2024-2025
+> -   **Asignatura (grado)**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
+> -   ***Autores***: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es)
+> -   **Fecha y Duración**: 7 y 8 de noviembre de 2024
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
 ## Objetivos
 
-Esta actividad teórico-práctica-social tiene los siguientes objetivos: + Disciplinares: + Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en las asignaturas involucradas.
-+ Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
-+ Experimentar de primera mano la complejidad de la naturaleza.
-+ Experimentar en campo los retos de la gestión del medio natural.
-+ Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología.
-Es decir, aprender a mirar el mundo con las gafas de la ecología :) + Aprender a tomar datos ecológicos en campo.
-+ Instrumentales: + Interactuar con estudiantes de otros grados.
-+ Pasar un rato al aire libre entre colegas y amigos :) + Disfrutar de la naturaleza.
-+ Desconectar un poco de la dinámica del día a día.
+Esta actividad teórico-práctica-social tiene los siguientes objetivos:
+
++ Disciplinares: 
+
+  + Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en las asignaturas involucradas.
+
+  + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
+
+  + Experimentar de primera mano la complejidad de la naturaleza.
+
+  + Experimentar en campo los retos de la gestión del medio natural.
+
+  + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología. Es decir, aprender a mirar el mundo con las gafas de la ecología :)
+
+  + Aprender a tomar datos ecológicos en campo.
+
+
++ Instrumentales:
+  +  Interactuar con estudiantes de otros grados.
+  + Pasar un rato al aire libre entre colegas y amigos :) + Disfrutar de la naturaleza.
+  + Desconectar un poco de la dinámica del día a día.
+
 
 ## Itinerario y actividades a realizar
 
--   Para estudiantes de GIF, la actividad empezará con una sesión de fauna , en la que veremos técnicas de muestreo de fauna e instalaremos redes para anillamiento de aves en el Arroyo de Rabanales. Quedaremos a las 8:30 en [el canal de Rabanales](https://maps.app.goo.gl/AG9DUk433VxeA5Dq5). Si necesitas dejar la mochila de viaje, vente a las 8:00 al Edificio Leonardo da Vinci (recepción).
+-   Para estudiantes de GIF (Grado de Ingeniería Forestal), la actividad empezará con una sesión de fauna, en la que veremos técnicas de muestreo de fauna e instalaremos redes para anillamiento de aves en el Arroyo de Rabanales. Quedaremos a las 8:30 en [el canal de Rabanales](https://maps.app.goo.gl/AG9DUk433VxeA5Dq5). Si necesitas dejar la mochila de viaje, vente a las 8:00 al Edificio Leonardo da Vinci (recepción).
 -   Proyección de cine indígena y debate sobre cambio global a las 12:30. Dirigido a estudiantes de GIF pero abierto para todos.
 -   Para todos los estudiantes (GIF y CCAA), el autobús nos recogerá a las 15:30 del día 7 de noviembre en las escaleras del edificio Paraninfo de Rabanales.
 -   Estaremos de vuelta el día 8 alrededor de las 20:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba.
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 7.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&amp;ehbc=2E312F" width="640" height="480">
-
-</iframe>
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&amp;ehbc=2E312F" width="640" height="480"></iframe>
 La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
-En color azul se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, etc.
+En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, etc.
 
 | Día | Nombre evento                                                   | Hora inicio | Hora fin |
 |-------------|---------------------------------|-------------|-------------|
@@ -84,6 +88,8 @@ Para facilitar el trabajo, hemos preparado los siguientes:
 -   Muestreo cobertura especies. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies".
 -   Muestreo diámetro altura del pecho (DAP). Este muestreo permite medir el diámetro de los árboles encontrados en una parcela. De esta forma podemos adquirir un conocimiento interesante sobre la estructura de tamaños (y de edades) de una población. Esto nos permite generar histogramas de tamaño que son muy útiles para entender la dinámica de las poblaciones. Para encontrar este formulario en Epicollect, hay que entrar en la aplicación y buscar "Muestreo DAP arbolado"
 
+
+
 ## Recomendaciones y requisitos
 
 La siguiente lista contiene las indicaciones que deberás tener en cuenta para preparar la actividad y durante su realización.
@@ -112,6 +118,8 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
     -   PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a partir de una fotografía de alguno de sus órganos.
     -   Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
 
+
+
 ## Contextualización ecológica de Sierra Nevada
 
 Sierra Nevada es el macizo montañoso más alto de la Península Ibérica.
@@ -137,45 +145,48 @@ Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier
 En Sierra Nevada este gradiente es muy intenso, debido a su elevación.
 Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía.
 Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
-La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña.
-Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático".
-Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales.
-Esto es lo que se denomina [zonación altitudinal.](https://en.wikipedia.org/wiki/Altitudinal_zonation)
-Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos.
-En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo.
-Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que todavía se encuentra cubierto por nieve y es inaccesible para nosotros.
-Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
+
+La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es lo que se denomina [zonación altitudinal](https://en.wikipedia.org/wiki/Altitudinal_zonation).
+
+Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo.
+
+Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que ya se encuentra cubierto por nieve y es inaccesible para nosotros. Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
 ![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
 
-Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí.
-Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos.
-También se observa una diversidad biológica menor que la encontrada en zonas bajas.
-Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que garantiza su desplazamiento fijo al sustrato en un ambiente muy ventoso).
+Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí. Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos.
+
+También se observa una diversidad biológica menor que la encontrada en zonas bajas. Así, en la alta montaña es frecuente encontrar plantas con partes aéreas postradas (lo que reduce el impacto del peso de la nieve sobre la planta) o insectos sin alas (lo que garantiza su desplazamiento fijo al sustrato en un ambiente muy ventoso).
+
 El siguiente esquema muestra alguna de estas adaptaciones.
 
 ![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía.
 
-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+****
 
 [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
-------------------------------------------------------------------------
-
+****
 Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
-------------------------------------------------------------------------
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
-<p xmlns:cc="http://creativecommons.org/ns#">
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
 
-El contenido de este repositorio se puede utilizar bajo la siguiente licencia: <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/>`<`{=html}
-`/a>`{=html}
-
-</p>
-
-<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
-Estos productos tienen su licencia correspondiente.</p>
