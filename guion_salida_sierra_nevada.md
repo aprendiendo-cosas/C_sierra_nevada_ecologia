@@ -1,16 +1,11 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
 
 # Guión de la excursión a Sierra Nevada
 
-> -   ***Tipo de material***: [ Salida campo]{style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"}
-> -   **Versión**: 2024-2025
-> -   **Asignatura (grado)**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
-> -   ***Autores***: Curro Bonet García ([fjbonet\@uco.es](mailto:fjbonet@uco.es){.email}), Pablo González Moreno ([ir2gomop\@uco.es](mailto:ir2gomop@uco.es){.email}), Guillermo Palacios ([gpalacios\@uco.es](mailto:gpalacios@uco.es){.email})
-> -   **Fecha y Duración**: 7 y 8 de noviembre de 2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
+> -   **_Versión_**: 2024-2025
+> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
+> -   ***Autores***: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios (gpalacios@uco.es)
+> -   **_Fecha y Duración_**: 7 y 8 de noviembre de 2024
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
@@ -48,9 +43,7 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 
 En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 7.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&amp;ehbc=2E312F" width="640" height="480">
-
-</iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&amp;ehbc=2E312F" width="640" height="480"></iframe>
 
 La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, etc.
@@ -127,6 +120,8 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
         -   Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
         -   Merlin ([Android](https://merlinbirdid.page.link/android), [iOS](https://merlinbirdid.page.link/ios)): identificación de aves por sonidos
 
+
+
 ## Contextualización ecológica de Sierra Nevada
 
 Sierra Nevada es el macizo montañoso más alto de la Península Ibérica.
@@ -180,6 +175,10 @@ El siguiente esquema muestra alguna de estas adaptaciones.
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía.
 
+
+
+
+
 ------------------------------------------------------------------------
 
 [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
@@ -189,13 +188,8 @@ Las dos figuras anteriores se han extraído de [este](http://www.juntadeandaluci
 Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ------------------------------------------------------------------------
-
 <p xmlns:cc="http://creativecommons.org/ns#">
-
-El contenido de este repositorio se puede utilizar bajo la siguiente licencia: <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"/>`<`{=html}
-`/a>`{=html}
-
-</p>
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
 Estos productos tienen su licencia correspondiente.</p>
