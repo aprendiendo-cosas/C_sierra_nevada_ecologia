@@ -2,10 +2,10 @@
 # Guión de la excursión a Sierra Nevada
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
-> -   **_Versión_**: 2024-2025
+> -   **_Versión_**: 2025-2026
 > -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
-> -   ***Autores***: Curro Bonet García (fjbonet@uco.es), Pablo González Moreno (ir2gomop@uco.es), Guillermo Palacios (gpalacios@uco.es)
-> -   **_Fecha y Duración_**: 7 y 8 de noviembre de 2024
+> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Cristina Acosta Muñoz (z52acmuc@uco.es) y Ginés Rodríguez Castilla (b52rocag@uco.es).
+> -   **_Fecha y Duración_**: 6 y 7 de noviembre de 2025
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
