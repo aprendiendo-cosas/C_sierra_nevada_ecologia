@@ -17,89 +17,91 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 
     -   Repasar y afianzar buena parte de los conocimientos teóricos desarrollados en las asignaturas involucradas.
 
-    -   Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
+    -   Transferir el conocimiento sobre la teoría a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
 
     -   Experimentar de primera mano la complejidad de la naturaleza.
 
     -   Experimentar en campo los retos de la gestión del medio natural.
 
-    -   Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre ecología.
-        Es decir, aprender a mirar el mundo con las gafas de la ecología :)
-
-    -   Aprender a tomar datos ecológicos en campo.
-
+    -   Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre distintas disciplinas. Es decir, aprender a mirar el mundo con las gafas de los SIG, de la ecología, de la edafología, etc :)
+        
+    -   Aprender a tomar datos en campo.
+    
 -   Instrumentales:
 
     -   Interactuar con estudiantes de otros grados.
-    -   Pasar un rato al aire libre entre colegas y amigos :) + Disfrutar de la naturaleza.
+    -   Pasar un rato al aire libre entre colegas y amigos :)
+    -   Disfrutar de la naturaleza.
     -   Desconectar un poco de la dinámica del día a día.
 
-## Itinerario y actividades a realizar
 
--   Para estudiantes de GIF (Grado de Ingeniería Forestal), la actividad empezará con una sesión de fauna, en la que veremos técnicas de muestreo de fauna e instalaremos redes para anillamiento de aves en el Arroyo de Rabanales. Quedaremos a las 8:30 en [el canal de Rabanales](https://maps.app.goo.gl/AG9DUk433VxeA5Dq5). Si necesitas dejar la mochila de viaje, vente a las 8:00 al Edificio Leonardo da Vinci (recepción).
--   Proyección de cine indígena y debate sobre cambio global a las 12:30. Dirigido a estudiantes de GIF pero abierto para todos.
--   Para todos los estudiantes (GIF y CCAA), el autobús nos recogerá a las 15:30 del día 7 de noviembre en las escaleras del edificio Paraninfo de Rabanales.
--   Estaremos de vuelta el día 8 alrededor de las 20:00. La hora exacta es difícil de adelantar. El autobús nos dejará en la estación de autobuses de Córdoba.
 
-En el mapa podéis ver la ubicación de las paradas y del sitio donde dormiremos la noche del 7.
+## Itinerario 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q2HzUNfRQ6ffx-oKAIfNbnFlmDZLyrQ&amp;ehbc=2E312F" width="640" height="480"></iframe>
+El siguiente mapa muestra el itinerario que realizaremos y las paradas. Es un mapa dinámico, así que puedes hacer zoom y desplazarte para verlo todo bien.
+
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PtmvBYs62QJUxIo-NMok-F8XaTUlxlg&ehbc=2E312F" width="640" height="480"></iframe>
+
+
 
 La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
-En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, etc.
+En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, tipos de suelos, captura de datos, etc.
 
-| Día | Nombre evento | Hora inicio | Hora fin |
-|---------------|-----------------------------|---------------|---------------|
-| 7 | Bienvenida y depósito mochilas. Recepción Ed. Leonardo da Vinci | 8:00 | 8:15 |
-|  | Monitoreo de aves con redes. Canal campus rabanales | 8:30 | 12:00 |
-|  | Proyección cortometraje y debate cambio global | 12:30 | 14:00 |
-|  | Comida libre (campus Rabanales) | 14:00 | 15:30 |
-|  | Salida en bus desde el Paraninfo | 15:30 | 17:00 |
-|  | **Bosque de ribera** (Loja) | 17:00 | 18:30 |
-|  | Viaje hasta Granada | 18:30 | 19:10 |
-|  | Cena en el albergue Inturjoven | 20:00 | 21:30 |
-| 8 | Desayuno en el albergue inturjoven | 7:00 | 8:00 |
-|  | Viaje hasta encinares | 8:00 | 8:30 |
-|  | **Encinares de montaña** | 8:30 | 9:30 |
-|  | Viaje hasta pinares de repoblación | 9:30 | 10:00 |
-|  | **Pinares de repoblación** | 10:00 | 11:00 |
-|  | Viaje hasta la Hoya de la Mora | 11:00 | 11:10 |
-|  | Paseo a pie hacia el valle del río San Juan | 11:00 | 11:30 |
-|  | **Pastizales de alta montaña** | 11:30 | 12:40 |
-|  | Paseo a pie por peñones de S. Francisco | 12:40 | 14:00 |
-|  | **Piornales-enebrales** | 14:00 | 15:00 |
-|  | Comida libre (llevar picnic desde Córdoba) | 15:00 | 16:00 |
-|  | Viaje hasta Córdoba (estación de bus) | 16:00 | 19:00 |
-|  | Trenes a rabanales (19.37, 20.10, 20:48) |  |  |
+**Día 6 de noviembre**
 
-Para preparar la salida, es muy recomendable que los estudiantes descarguen y lean el siguiente material:
+| Evento                                                       | Hora inicio | Hora fin |
+| ------------------------------------------------------------ | ----------- | -------- |
+| Recepción y recogida de mochilas frente al edificio de gobierno de Rabanales | 08:00       | 08:15    |
+| Viaje hacia Zóñar                                            | 08:15       | 08:50    |
+| **Visita lago de Zóñar y anillamiento de aves**              | 09:00       | 11:00    |
+| Viaje hacia Sierra Nevada                                    | 11:00       | 12:45    |
+| **Bosque de ribera y especies invasoras**                    | 12:45       | 14:00    |
+| Almuerzo libre en Cenes de la Vega                           | 14:00       | 15:00    |
+| **Visita matorrales de media montaña y regeneración postincendio** | 15:30       | 17:00    |
+| Viaje hasta Pradollano.                                      | 17:00       | 17:30    |
+| Parada en mirador de "Sierra Nevada"                         | 17:30       | 18:00    |
+| **Actividad de debate y reflexión**                          | 18:00       | 19:00    |
+| Tiempo libre                                                 | 19:00       | 21:00    |
+| **Actividad de captura de insectos nocturnos**               | 21:00       | 22:00    |
 
--   [Generalidades de la vegetación, la flora y la fauna de algunos ecosistemas de Sierra Nevada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ecosistemas_sierra_nevada.pdf). Se trata de un fragmento del libro "Parque Natural de Sierra Nevada", escrito por Joaquín Molero Mesa en 1992. Este libro describe los principales ecosistemas de Sierra Nevada con una perspectiva botánica basada en las Series de Vegetación. Es muy interesante para entender la estructura y composición específica de los distintos ecosistemas que veremos.
--   En la visita al bosque de ribera del río Genil observaremos con probabilidad poblaciones de especies invasoras. Concretamente de *Ailanthus altissima*. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_caracteristicas_invasion_ailanto.pdf) artículo y en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_ailanthus_altissima_2013_tcm30-69804.pdf) otro informe se habla con detalle de esta especie invasora.
--   Artículos diversos sobre [pinares de repoblación](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pinares_repoblacion.pdf). Esta colección de artículos procede de un libro editado por el Observatorio de Seguimiento del Cambio Global en Sierra Nevada en 2015.
--   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
--   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
+**Día 7 de noviembre**
 
-Además de explicar cuestiones diversas en cada una de las paradas, capturaremos datos sobre la estructura de cada ecosistema.
-La idea es que, en cada parada, tomemos datos de algunas variables que ayudan a entender la estructura (y por tanto el funcionamiento) de los ecosistemas estudiados.
-En todos los casos usaremos la aplicación Epicollect5 para tomar datos.
-Debéis de instalar esta aplicación en vuestro teléfono móvil ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)).
-Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
-Para facilitar el trabajo, hemos preparado los siguientes:
+| Evento                                                       | Hora inicio | Hora fin |
+| ------------------------------------------------------------ | ----------- | -------- |
+| Desayuno                                                     | 08:00 | 08:30 |
+| Viaje hacia encinares de montaña, Hotel Sta Cruz             | 08:30 | 08:45     |
+| **Visita a encinares de montaña**                            | 08:45 | 10:15     |
+| Viaje al jardín botánico Hoya de Pedraza                     | 10:15 | 10:25     |
+| **Charla sobre la cabra montés**                             | 10:25 | 11:25     |
+| **Visita libre al jardín botánico y degustación de dulces típicos…** | 11:25 | 12:00     |
+| Viaje área recreativa Fuente Alta                            | 12:00 | 12:10     |
+| **Visita de pinares de repoblación**                         | 12:10 | 13:10     |
+| Viaje hacia la Hoya de la Mora                               | 13:10 | 13:25     |
+| **Paseo hacia el mirador del glacial del Veleta**            | 13:25 | 14:00     |
+| Almuerzo (bocadillos)                                        | 14:00 | 14:30     |
+| **Visita de piornal y pastizales de alta montaña**           | 14:30 | 15:30     |
+| **Paseo hacia los llanos de Otero y el autobús (3,5Km)**     | 15:30 | 16:40     |
+| Viaje hasta Córdoba (el bus nos dejará en la estación de autobuses) | 16:40 | 19:10     |
 
--   Muestreo cobertura especies. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies".
--   Muestreo diámetro altura del pecho (DAP). Este muestreo permite medir el diámetro de los árboles encontrados en una parcela. De esta forma podemos adquirir un conocimiento interesante sobre la estructura de tamaños (y de edades) de una población. Esto nos permite generar histogramas de tamaño que son muy útiles para entender la dinámica de las poblaciones. Para encontrar este formulario en Epicollect, hay que entrar en la aplicación y buscar "Muestreo DAP arbolado"
 
-## Recomendaciones y requisitos
+
+## Lo que necesitas llevar para la salida
 
 La siguiente lista contiene las indicaciones que deberás tener en cuenta para preparar la actividad y durante su realización.
 
 -   Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
 -   Si te has apuntado a la actividad tienes la obligación moral de asistir. La mayoría del dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
--   Aún así, has de pagar 10€ si quieres asistir. Dáselos antes del día 7 a tu profesor. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará si no dispone de recursos.
--   La excursión incluye el autobús, la cena del día 7, la noche del día 7 y el desayuno del día 8. Así que solo tendrás que traer comida para el día 8. Si quieres traer más, está bien. Para el almuerzo del día 8 recomendamos algo no muy pesado (nada de callos...). Quizás otro bocata o una tortilla. También algo de fruta y quizás algo dulce para recargar energía. Si quieres puedes traer algo de picoteo para recuperar fuerzas durante la marcha: pasas, dátiles o barritas energéticas.
--   Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomiendo que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Diría que con 2 litros de agua por persona es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
--   Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada.
+-   Aún así, has de pagar 10€ si quieres asistir. Dáselos a Pablo o a Curro en la semana del día 27 de octubre. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará si no dispone de recursos.
+-   Estaremos buena parte del tiempo a más de 2000 m de altura en el mes de noviembre. Aunque tenemos un otoño más bien primaveral, se esperan temperaturas bajas (unos 5º) por la noche. Así que, llevad ropa de abrigo.
+ * Como ya os comentamos, tenéis que gestionar vuestra comida. Os contamos dónde estaremos en cada comida y qué opciones tenéis:
+    * Almuerzo del día 6: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)) que tiene restaurantes, supermercados y tiendas de comida rápida. No obstante, como somos muchos y tendremos poco tiempo para comer, os recomiendo que traigáis comida preparada de casa.
+     * Cena del día 6: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen concina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
+     * Desayuno del día 7: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos.
+     * Almuerzo del día 7: Estaremos en mitad del campo sin posibilidad de comprar nada, así que la única opción viable aquí es que traigáis bocadillos o comida ya preparada.
+-   Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomendamos que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Con 2 litros de agua por persona y día es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
+-   Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada. Aunque estemos en otoño, sí.
 -   Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
     -   Pantalón largo.
     -   Camiseta interior de licra. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
@@ -107,14 +109,15 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
     -   Abrigo grueso y chubasquero o cortavientos: el tiempo de la montaña es cambiante, así que es buena idea llevar algo para protegerse de un chubasco imprevisto y del viento. No traigas paraguas. En la montaña son un peligro porque actúan de pararayos.
     -   Guantes y bragas (de las de poner en el cuello-cara...). Hará frío y quizás toquemos nieve.
     -   Calzado cómodo: Unas zapatillas de deporte o unas botas bajas serán suficiente siempre que tengan la suela en condiciones. Si la suela está plana resbalarás y resultará incómodo. Si te has comprado unas botas hace poco, llévalas puestas todos los días antes de la excursión. Así se amoldarán a tu pie y te dolerá menos.
--   Mochila cómoda: esto es importante. Si tu mochila no es cómoda busca otra si no quieres ir con molestias todo el camino.
--   Medicamentos: Yo llevaré un botiquín con algunas cosas de primeros auxilios. Además de eso:
-    -   Si tiendes a marearte en el bus, compra biodramina con cafeína. Eso te ahorrará un mal rato. Las carreteras de montaña tienen muchas curvas y no queremos saborear tu desayuno :(
+-   Mochila cómoda: esto es importante. Si tu mochila no es cómoda busca otra si no quieres ir con molestias todo el camino. Usaremos la mochila para guardar lo que vayamos a usar durante el día. Puedes llevar el grueso de tus cosas en una maleta. Pero la mochila es útil para las paradas.
+-   Medicamentos: Llevaremos un botiquín con algunas cosas de primeros auxilios. Además de eso:
+    -   Si tiendes a marearte en el bus, compra biodramina con cafeína. Eso te ahorrará un mal rato. Las carreteras de montaña tienen muchas curvas.
     -   Paracetamol o similar: Si no estás acostumbrado a la altura puede dolerte la cabeza. El paracetamol o el ibuprofeno te ayudarán. Recuerda tomarlos con el estómago lleno (o al menos no vacío).
     -   Si eres alérgico o asmático, dínoslo cara a cara cuando empecemos a andar. Así estaremos pendientes de ti. No olvides tus antihistamínicos, ventolín o lo que sea. Si tienes urbasón en casa, échalo por si acaso.
 -   Papel higiénico y alguna bolsa de plástico.
 -   Instala las siguientes aplicaciones en tu móvil:
-    -   [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). Si no tienes móvil sería bueno que trajeras una tablet o una cámara de fotos más un cuaderno. Usaremos la aplicación para hacer un ejercicio grupal de toma de datos de campo por ecosistema. Al menos uno de cada grupo tiene que tenerlo instalado.
+    -   [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). 
+    -   QField ([aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dch.opengis.qfield&ved=2ahUKEwihkLi-87qQAxWcVEEAHeeOGJoQFnoECB8QAQ&usg=AOvVaw3EHih9JSUwElA38RX5HtQ4) para Android y [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/qfield-for-qgis/id1531726814&ved=2ahUKEwjz2_XK87qQAxUTV0EAHSdzJKkQFnoECBoQAQ&usg=AOvVaw1UNsll6KDEmkPelLqgRX7m) para IOS)
     -   Las siguientes aplicaciones te servirán para identificar especies en los muestreos:
         -   PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a partir de una fotografía de alguno de sus órganos.
         -   Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
@@ -122,12 +125,66 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 
 
+## Dinámica de las paradas
+
+Todas las paradas relacionadas con tipos de ecosistemas que hagamos durante la salida tendrán la misma estructura:
+
+### Caracterización del tipo de ecosistema visitado
+En primer lugar, al llegar al sitio de interés, uno o varios de los profesores que van a la salida se encargará de explicar cuestiones generales sobre los ecosistemas visitados. También se pondrán de manifiesto las diferencias entre los ecosistemas. La información suministrada es de gran importancia para todos los estudiantes, pero especialmente para los del grado de ciencias ambientales, que tienen que hacer un trabajo sobre distintos tipos de ecosistemas. 
+
+Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y lean el siguiente material:
+
+-   [Generalidades de la vegetación, la flora y la fauna de algunos ecosistemas de Sierra Nevada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ecosistemas_sierra_nevada.pdf). Se trata de un fragmento del libro "Parque Natural de Sierra Nevada", escrito por Joaquín Molero Mesa en 1992. Este libro describe los principales ecosistemas de Sierra Nevada con una perspectiva botánica basada en las Series de Vegetación. Es muy interesante para entender la estructura y composición específica de los distintos ecosistemas que veremos.
+-   En la visita al bosque de ribera del río Genil observaremos poblaciones de especies invasoras. Concretamente de *Ailanthus altissima*. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_caracteristicas_invasion_ailanto.pdf) artículo y en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_ailanthus_altissima_2013_tcm30-69804.pdf) otro informe se habla con detalle de esta especie invasora.
+-   Artículos diversos sobre [pinares de repoblación](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pinares_repoblacion.pdf). Esta colección de artículos procede de un libro editado por el Observatorio de Seguimiento del Cambio Global en Sierra Nevada en 2015.
+-   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
+-   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
+
+### Captura de datos
+
+Además de explicar cuestiones diversas en cada una de las paradas, capturaremos datos relacionados con la estructura, composición y contexto abiótico de los distintos tipos de ecosistemas visitados. También capturaremos información para validar un ejercicio de clasificación supervisada que se realizará en la asignatura de SIG. 
+
+En concreto se aplicarán los siguientes métodos de captura de información:
+
+#### Caracterización de la vegetación y del suelo
+
+Todos los estudiantes tendrán que usar la aplicación Epicollect5 (instalada en sus dispositivos móviles) para tomar datos sobre la cobertura de distintas especies vegetales encontradas.
+Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
+Para facilitar el trabajo, hemos preparado los siguientes:
+-   Muestreo cobertura especies. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
+-   Muestreo diámetro altura del pecho (DAP). Este muestreo permite medir el diámetro de los árboles encontrados en una parcela. De esta forma podemos adquirir un conocimiento interesante sobre la estructura de tamaños (y de edades) de una población. Esto nos permite generar histogramas de tamaño que son muy útiles para entender la dinámica de las poblaciones. Para encontrar este formulario en Epicollect, hay que entrar en la aplicación y buscar "Muestreo DAP arbolado"
+
+Los estudiantes de ingeniería forestal tendrán que tomar datos con este formulario en todas las paradas. Los estudiantes de ciencias ambientales se constituirán en grupos. Cada grupo tomará datos de esta forma en paradas alternas. Es decir, si el equipo A, por ejemplo, toma datos con Epicollect en la parada 1, tomará datos con el siguiente método en la parada 2.
+
+
+
+#### Toma de puntos de "realidad terreno" para validar una clasificación supervisada de una imagen de satélite
+
+POR COMPLETAR. SOLO VÁLIDO PARA LOS ESTUDIANTES DE LA ASIGNATURA DE SIG DE CIENCIAS AMBIENTALES
+
+
+
+### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
+
+ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
+
+
+
+### Actividad de captura de insectos nocturnos
+
+ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
+
+
+
+
+
+
+
+
+
 ## Contextualización ecológica de Sierra Nevada
 
-Sierra Nevada es el macizo montañoso más alto de la Península Ibérica.
-Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes.
-Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada.
-También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
+Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
 
 El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 
@@ -143,20 +200,13 @@ En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DO
 
 ![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/ecosistemas.png)
 
-Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal.
-En Sierra Nevada este gradiente es muy intenso, debido a su elevación.
-Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía.
-Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
+Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
 
-La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña.
-Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático".
-Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales.
-Esto es lo que se denomina [zonación altitudinal](https://en.wikipedia.org/wiki/Altitudinal_zonation).
+La vegetación se distribuye adaptándose a estas condiciones cambiantes de manera que hay una especie de "cinturones" vegetales rodeando a la montaña. Esto es lo que en ecología y botánica se denomina "piso de vegetación" o "piso bioclimático". Hay multitud de factores (clima, insolación, tipo de suelo, etc.) que explican cómo la vegetación responde de esta manera a los gradientes altitudinales. Esto es se denomina [zonación altitudinal](https://en.wikipedia.org/wiki/Altitudinal_zonation).
 
-Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos.
-En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo.
+Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo.
 
-Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que ya se encuentra cubierto por nieve y es inaccesible para nosotros.
+Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que es inaccesible para nosotros sin material de alta montaña.
 Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
@@ -181,7 +231,7 @@ Las dos figuras anteriores se han extraído de [este](http://www.juntadeandaluci
 
 ------------------------------------------------------------------------
 
-[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ------------------------------------------------------------------------
 
