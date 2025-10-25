@@ -34,6 +34,8 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
     -   Disfrutar de la naturaleza.
     -   Desconectar un poco de la dinámica del día a día.
 
+Además de los objetivos docentes, es importante destacar que asistimos estudiantes de tres grados (ingeniería forestal, ingeniería agrónoma y medio rural y ciencias ambientales). También hay estudiantes Erasmus. Por último, asistimos 8 profesores de distintas áreas de conocimiento. En total seremos 70 personas. Esta situación genera una oportunidad estupenda a los estudiantes para conocer un poco cómo piensan (y cómo sienten también) la naturaleza y sus aprovechamientos en otras titulaciones. Para los profesores también es un reto importante. Pongamos todos de nuestra parte para que salga bien todo. 
+
 
 
 ## Itinerario 
@@ -161,6 +163,12 @@ Los estudiantes de ingeniería forestal tendrán que tomar datos con este formul
 #### Toma de puntos de "realidad terreno" para validar una clasificación supervisada de una imagen de satélite
 
 POR COMPLETAR. SOLO VÁLIDO PARA LOS ESTUDIANTES DE LA ASIGNATURA DE SIG DE CIENCIAS AMBIENTALES
+
+
+
+### Avistamiento de aves en el lago de Zóñar
+
+ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
 
 
 
