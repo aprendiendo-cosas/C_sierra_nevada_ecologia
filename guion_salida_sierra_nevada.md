@@ -34,7 +34,7 @@ Esta actividad teórico-práctica-social tiene los siguientes objetivos:
     -   Disfrutar de la naturaleza.
     -   Desconectar un poco de la dinámica del día a día.
 
-Además de los objetivos docentes, es importante destacar que asistimos estudiantes de tres grados (ingeniería forestal, ingeniería agrónoma y medio rural y ciencias ambientales). También hay estudiantes Erasmus. Por último, asistimos 8 profesores de distintas áreas de conocimiento. En total seremos 70 personas. Esta situación genera una oportunidad estupenda a los estudiantes para conocer un poco cómo piensan (y cómo sienten también) la naturaleza y sus aprovechamientos en otras titulaciones. Para los profesores también es un reto importante. Pongamos todos de nuestra parte para que salga bien todo. 
+Además de los objetivos docentes, es importante destacar que asistimos estudiantes de tres grados (ingeniería forestal, ingeniería agronómica y medio rural y ciencias ambientales). También hay estudiantes Erasmus. Por último, asistimos 8 profesores de distintas áreas de conocimiento. En total seremos 70 personas. Esta situación genera una oportunidad estupenda a los estudiantes para conocer un poco cómo piensan (y cómo sienten también) la naturaleza y sus aprovechamientos en otras titulaciones. Para los profesores también es un reto importante. Pongamos todos de nuestra parte para que salga bien todo. 
 
 
 
@@ -95,18 +95,19 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 -   Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
 -   Si te has apuntado a la actividad tienes la obligación moral de asistir. La mayoría del dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
--   Aún así, has de pagar 10€ si quieres asistir. Dáselos a Pablo o a Curro en la semana del día 27 de octubre. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará si no dispone de recursos.
+-   Aún así, has de pagar 10€ si quieres asistir. Dáselos a Pablo o a Curro en la semana del día 27 de octubre. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará en tierra por no disponer de recursos.
 -   Estaremos buena parte del tiempo a más de 2000 m de altura en el mes de noviembre. Aunque tenemos un otoño más bien primaveral, se esperan temperaturas bajas (unos 5º) por la noche. Así que, llevad ropa de abrigo.
  * Como ya os comentamos, tenéis que gestionar vuestra comida. Os contamos dónde estaremos en cada comida y qué opciones tenéis:
-    * Almuerzo del día 6: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)) que tiene restaurantes, supermercados y tiendas de comida rápida. No obstante, como somos muchos y tendremos poco tiempo para comer, os recomiendo que traigáis comida preparada de casa.
+    * Almuerzo del día 6: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)). Como vamos justos de tiempo, llevad un bocata o similar para esa comida.
      * Cena del día 6: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen concina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
      * Desayuno del día 7: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos.
      * Almuerzo del día 7: Estaremos en mitad del campo sin posibilidad de comprar nada, así que la única opción viable aquí es que traigáis bocadillos o comida ya preparada.
 -   Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomendamos que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Con 2 litros de agua por persona y día es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
 -   Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada. Aunque estemos en otoño, sí.
+-   Prismáticos y telescopios. En varias paradas intentaremos ver fauna silvestre (p.ej. Laguna de Zóñar y cabras monteses en Sierra Neavada) así que intenta buscar algún prismático para la visita.  Los docentes llevaremos algún equipo extra pero mejor que traigas tu propio equipo.  
 -   Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
     -   Pantalón largo.
-    -   Camiseta interior de licra. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
+    -   Camiseta interior de licra o lana merina. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
     -   Jersey o forro polar. Haremos una pequeña ruta que empieza en torno a los 2300 m. La temperatura prevista para esa zona es de 5º. Es decir, hará frío.
     -   Abrigo grueso y chubasquero o cortavientos: el tiempo de la montaña es cambiante, así que es buena idea llevar algo para protegerse de un chubasco imprevisto y del viento. No traigas paraguas. En la montaña son un peligro porque actúan de pararayos.
     -   Guantes y bragas (de las de poner en el cuello-cara...). Hará frío y quizás toquemos nieve.
@@ -144,7 +145,7 @@ Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y
 
 ### Captura de datos
 
-Además de explicar cuestiones diversas en cada una de las paradas, capturaremos datos relacionados con la estructura, composición y contexto abiótico de los distintos tipos de ecosistemas visitados. También capturaremos información para validar un ejercicio de clasificación supervisada que se realizará en la asignatura de SIG. 
+Además de explicar cuestiones diversas en cada una de las paradas, capturaremos datos relacionados con la estructura, composición y contexto abiótico de los distintos tipos de ecosistemas visitados. También capturaremos información para validar un ejercicio de clasificación supervisada que se realizará en la asignatura de SIG de ciencias ambientales.
 
 En concreto se aplicarán los siguientes métodos de captura de información:
 
@@ -152,41 +153,52 @@ En concreto se aplicarán los siguientes métodos de captura de información:
 
 Todos los estudiantes tendrán que usar la aplicación Epicollect5 (instalada en sus dispositivos móviles) para tomar datos sobre la cobertura de distintas especies vegetales encontradas.
 Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
-Para facilitar el trabajo, hemos preparado los siguientes:
--   Muestreo cobertura especies. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
--   Muestreo diámetro altura del pecho (DAP). Este muestreo permite medir el diámetro de los árboles encontrados en una parcela. De esta forma podemos adquirir un conocimiento interesante sobre la estructura de tamaños (y de edades) de una población. Esto nos permite generar histogramas de tamaño que son muy útiles para entender la dinámica de las poblaciones. Para encontrar este formulario en Epicollect, hay que entrar en la aplicación y buscar "Muestreo DAP arbolado"
+Para facilitar el trabajo, hemos preparado el siguiente proyecto
+
+*Muestreo cobertura especies*. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
 
 Los estudiantes de ingeniería forestal tendrán que tomar datos con este formulario en todas las paradas. Los estudiantes de ciencias ambientales se constituirán en grupos. Cada grupo tomará datos de esta forma en paradas alternas. Es decir, si el equipo A, por ejemplo, toma datos con Epicollect en la parada 1, tomará datos con el siguiente método en la parada 2.
 
 
 
-#### Toma de puntos de "realidad terreno" para validar una clasificación supervisada de una imagen de satélite
+#### Toma de puntos de "verdad terreno" para validar una clasificación supervisada de una imagen de satélite
 
-POR COMPLETAR. SOLO VÁLIDO PARA LOS ESTUDIANTES DE LA ASIGNATURA DE SIG DE CIENCIAS AMBIENTALES
+Aunque no se haya visto aún en las sesiones de teoría, os adelanto que vamos a ver en el bloque de teledetección de la asignatura de SIG diferentes técnicas de clasificación. Con estas técnicas podemos conocer qué tipo de uso o cubierta tiene el terreno. Un paso fundamental en el desarrollo de un flujo de trabajo de clasificación es hacer una validación de esta. La validación nos permite saber hasta qué punto la clasificación que hemos hecho es fiable usando diferentes métricas. Y para hacer esta validación necesitamos conocer la “verdad terreno”, es decir, debemos saber lo que hay en realidad en campo para poder comparar esta “verdad terreno” con lo predicho por nuestra clasificación.  
+
+Durante una de las sesiones prácticas haremos una clasificación de la zona por la que se va a desarrollar este viaje de prácticas. Así que aprovecharemos las diferentes paradas del viaje para, usando QField, crear una capa vectorial de puntos con información sobre el tipo de ecosistema presente en cada parada. Para poder hacer esto, Jorge os pasará por Moodle unas capas con las que deberéis montar un proyecto tal y como hicisteis en la práctica en la que trabajasteis con QField en Rabanales. Recordad que podéis no tener cobertura durante parte del viaje, así que lo mejor sería descargar el proyecto en vuestro móvil usando la nube de QGIS antes de salir de viaje. 
 
 
 
 ### Avistamiento de aves en el lago de Zóñar
 
-ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
+La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el único lago natural de Andalucía, lo que le confiere su singularidad y su especial interés ecológico. En esta parada veremos el funcionamiento de un sistema acuático léntico (agua estancada) considerando su sistema de recarga, comportamiento estacional y dinámica de recursos, así como la rica flora y fauna asociada. Además podremos comprobar el resultado de un ejemplo de erradicación de fauna invasora con muchas historia. 
+
+- [Aspectos más relevantes de la Reserva natural  Laguna de Zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/c09d2fb9-e8c7-0038-c38f-77714d82e080) 
+
+- [Información interpretativa sobre la laguna de zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/012b87f8-80bb-3b01-92a7-0f9d7a7a0f29) 
 
 
 
 ### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
 
-ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
+La estación de esquí de Sierra Nevada se llama "Sol y Nieve". Se encuentra situada entre la cota 2300 y la 3100 m del valle del río Monachil. Fue inaugurada en 1964. Desde entonces ha ido creciendo y en la actualidad es una de las estaciones de esquí más grandes de España. Destaca por su capacidad de producir nieve artificial y por la gran cantidad de kilómetros esquiables que hay disponibles hacia el final de la temporada.
+
+Además, se localiza dentro del espacio protegido de Sierra Nevada (parque natural, nacional y reserva de la biosfera). La presencia de la estación siempre ha generado debates entre conservacionistas y desarrollo económico. El cambio climático suma una componente más a este debate.
+
+La actividad que proponemos tiene varios objetivos docentes:
+
++ Entrenar nuestra capacidad discursiva y de discusión sobre temas controvertidos.
++ Entender mejor las posturas contrarias a las propias.
++ Entender, aunque de manera superficial, la complejidad inherente a los problemas socioecológicos.
++ Proponer actuaciones que satisfagan las necesidades de los actores implicados.
+
+Desvelaremos la estructura y contenidos de la dinámica propuesta a su debido tiempo :)
 
 
 
 ### Actividad de captura de insectos nocturnos
 
-ESTAMOS TRABAJANDO EN ELABORAR ESTA SECCIÓN
-
-
-
-
-
-
+La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
 
 
 
