@@ -55,7 +55,7 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
 
 | Evento                                                       | Hora inicio | Hora fin |
 | ------------------------------------------------------------ | ----------- | -------- |
-| Recepción y recogida de mochilas frente al edificio de gobierno de Rabanales | 08:00       | 08:15    |
+| Recepción y recogida de mochilas en la [Glorieta Cruz Roja](https://maps.app.goo.gl/hnLf3BHTsqssftvf7) | 08:00       | 08:15    |
 | Viaje hacia Zóñar                                            | 08:15       | 08:50    |
 | **Visita lago de Zóñar y anillamiento de aves**              | 09:00       | 11:00    |
 | Viaje hacia Sierra Nevada                                    | 11:00       | 12:45    |
@@ -177,6 +177,9 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 - [Información interpretativa sobre la laguna de zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/012b87f8-80bb-3b01-92a7-0f9d7a7a0f29) 
 
+### Itinerario geológico de la visita
+
+[En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/blob/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
 
 
 ### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
@@ -263,3 +266,4 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
 Estos productos tienen su licencia correspondiente.</p>
+
