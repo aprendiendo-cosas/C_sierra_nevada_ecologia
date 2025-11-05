@@ -179,7 +179,7 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 ### Itinerario geológico de la visita
 
-[En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/blob/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
+[En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
 
 
 ### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
@@ -266,4 +266,3 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
 Estos productos tienen su licencia correspondiente.</p>
-
