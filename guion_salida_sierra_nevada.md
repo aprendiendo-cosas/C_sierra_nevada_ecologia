@@ -266,3 +266,37 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
 Estos productos tienen su licencia correspondiente.</p>
+
+
+## Estaremos encantados de leer y de tener en cuenta tus comentarios sobre la salida a Sierra Nevada:
+
+
+
+<style>
+#cusdis_thread {
+  max-width: 100%;
+  margin: 0 auto;
+}
+</style>
+
+<div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="fcdc1c79-b0bd-4fde-b3ed-874d7f166442"
+     data-page-id="normas_IA"
+     data-page-url="https://aprendiendo-cosas.github.io/C_sierra_nevada_ecologia/guion_salida_sierra_nevada.html"
+     data-page-title="guion_salida_sierra_nevada">
+</div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<script>
+window.addEventListener('load', function () {
+    setTimeout(() => {
+        // Busca el iframe generado por Cusdis dentro del div con id "cusdis_thread"
+        let iframe = document.querySelector("#cusdis_thread iframe");
+        if (iframe && iframe.contentWindow && iframe.contentWindow.document && iframe.contentWindow.document.body) {
+            let scrollHeight = iframe.contentWindow.document.body.scrollHeight;
+            iframe.style.height = scrollHeight + "px";
+        }
+    }, 3000);
+});
+</script>
