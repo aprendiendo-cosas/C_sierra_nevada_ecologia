@@ -1,13 +1,17 @@
 
-# Guión de la excursión a Sierra Nevada
+# Guión de la excursión a Sierra Nevada (y al lago de Zóñar)
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
 > -   **_Versión_**: 2025-2026
-> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal).
-> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Cristina Acosta Muñoz (z52acmuc@uco.es) y Ginés Rodríguez Castilla (b52rocag@uco.es).
+> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), Edafología (Ingeniería Forestal)
+> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Cristina Acosta Muñoz (z52acmuc@uco.es), Ginés Rodríguez Castilla (b52rocag@uco.es) y Francisco Tomás Riera (O22torif@uco.es)
 > -   **_Fecha y Duración_**: 6 y 7 de noviembre de 2025
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
+
+<span style="color:green">**Nota importante post-excursión:** se muestra en este color el texto añadido para comentar lo que ocurrió en la salida.</span>
+
+
 
 ## Objetivos
 
@@ -133,6 +137,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 Todas las paradas relacionadas con tipos de ecosistemas que hagamos durante la salida tendrán la misma estructura:
 
 ### Caracterización del tipo de ecosistema visitado
+
 En primer lugar, al llegar al sitio de interés, uno o varios de los profesores que van a la salida se encargará de explicar cuestiones generales sobre los ecosistemas visitados. También se pondrán de manifiesto las diferencias entre los ecosistemas. La información suministrada es de gran importancia para todos los estudiantes, pero especialmente para los del grado de ciencias ambientales, que tienen que hacer un trabajo sobre distintos tipos de ecosistemas. 
 
 Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y lean el siguiente material:
@@ -156,7 +161,9 @@ Para facilitar el trabajo, hemos preparado el siguiente proyecto:
 
 *Muestreo cobertura especies*. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
 
-Los estudiantes de ingeniería forestal tendrán que tomar datos con este formulario en todas las paradas. Los estudiantes de ciencias ambientales se constituirán en grupos. Cada grupo tomará datos de esta forma en paradas alternas. Es decir, si el equipo A, por ejemplo, toma datos con Epicollect en la parada 1, tomará datos con el siguiente método en la parada 2.
+Los estudiantes tendrán que tomar datos con este formulario en todas las paradas. 
+
+<span style="color:green">**Los datos generados por todos los estudiantes en todas las paradas están accesibles en este enlace** </span>
 
 
 
@@ -176,9 +183,23 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 - [Información interpretativa sobre la laguna de zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/012b87f8-80bb-3b01-92a7-0f9d7a7a0f29) 
 
+**<span style="color:green">Además de lo previsto, la visita a Zóñar nos deparó una sorpresa: los técnicos de la delegación provincial de medio ambiente de Córdoba tenían previsto para el día de nuestra visita la liberación de un ejemplar de búho real (*Bubo bubo*). Fue una coincidencia afortunada que nosotros estuviéramos allí ese día. Así que nos llevamos el regalo de soltar un búo en directo. El pobre animal sufrió un accidente y tuvo que pasar por el centro de recuperación de especies amenazadas. Tras ser cuidado por la veterinaria Marian, se procedó a su suelta. Una estudiante de ambientales fue la afortunada que se encargó de liberar al animal. Como es tradición, nos dieron la oportunidad de darle nombre. El nombre elegido fue  Zóñar, aunque de forma extraoficial recibió el nombre de "Vidal el búho", en honor de nuestro querido profesor de edafología. </span>**
+
+![buho1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/buho1.jpg)
+
+![buho2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/buho2.png)
+
+
+
+
+
+
+
+
 ### Itinerario geológico de la visita
 
 [En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
+
 
 
 ### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
@@ -194,24 +215,27 @@ La actividad que proponemos tiene varios objetivos docentes:
 + Entender, aunque de manera superficial, la complejidad inherente a los problemas socioecológicos.
 + Proponer actuaciones que satisfagan las necesidades de los actores implicados.
 
-Esta actividad resultó ser un éxito a pesar del frío que hacía. Estábamos a más de 2000 m de altura al final del día. La temperatura era inferior a 5º. Pero el debate caldeó el ambiente.
-
-La actividad empezó con una defensa airada de dos posturas extremas: 
-
-+ La estación de esquí supone un impacto ambiental inasumible y debe de ser destruida.
-+ La estación de esquí aporta recursos económicos y sociales, por lo que debe de promoverse su mantenimiento y uso. 
-
-Además, en la defensa de la postura más conservadora, se lanzaron acusaciones a las personas que defendían la otra visión. Ante la acusación de "sois unos pijos" el debate cambió de foco. Ya no se debatía sobre la estación en sí, sino sobre las características (criticables) de las personas que defendían cada visión. Era una teatralización de la forma en la que vemos que discuten los políticos, por ejemplo. Afortunadamente contamos con la participación de una persona experta en facilitación (Javier Moreno Ortiz, de la cooperativa [PASOS](https://pasos.coop/)), que nos enseñó a discutir mejor. Ahí van algunos de los principales aprendizajes adquiridos:
-
-+ Cuando alguien acusa a un grupo de algo de forma muy vehemente, suele esconder algún "punto de dolor" que resulta interesante abordar de manera explícita o implícita. La acusación de "pijos" a las personas que defendían la estación de esquí escondía, quizás, pena por ver el deterioro ambiental que provoca esta actividad. Si ponemos el foco en el lenguaje explícito sin profundizar en las motivaciones últimas que lo ocasionan, es poco probable que lleguemos a una solución.
-+ Entender la visión de "los otros" es muy útil para tratar de formular los planteamientos propios de manera que puedan ser más fácilmente asumibles por todo el mundo. Al poner esto en práctica fuimos acercando poco a poco posturas. De manera figurada y también literal. Los estudiantes se iban desplazando entre los dos focos iniciales conforme las argumentaciones les iban resultando más atractivas. 
-+ En un momento dado, un estudiante dijo que prefería comer antes de que en Sierra Nevada se mantuviera la flora bien conservada. Esta afirmación maximalista suele llevarnos a posiciones extremas que no nos ayudan a resolver el conflicto. Por supuesto que todos preferimos comer a que haya flora en Sierra Nevada. Pero es que ahí no está el debate. Es posible comer y mantener la flora. La clave está en buscar un escenario en el que las infraestructuras y actividades humanas nos provean de sustento y al mismo tiempo no interfieran con los procesos naturales de manera irreversible. La teoría de los sistemas complejos nos enseña que esto es posible reduciendo la intensidad de la actividad humana por metro cuadrado, pero aumentando su extensión en superficie.
-
-A continuación mostramos algunas fotos del debate y del bonito atardecer que nos acompañó:
 
 
+**<span style="color:green"> Esta actividad resultó ser un éxito a pesar del frío que hacía. Estábamos a más de 2000 m de altura al final del día. La temperatura era inferior a 5º. Pero el debate caldeó el ambiente... </span>**
 
+**<span style="color:green">La actividad empezó con una defensa airada de dos posturas extremas: </span>**
 
++ **<span style="color:green"> La estación de esquí supone un impacto ambiental inasumible y debe de ser destruida.  </span>**
+
++ **<span style="color:green"> La estación de esquí aporta recursos económicos y sociales, por lo que debe de promoverse su mantenimiento y uso. </span>**
+
+**<span style="color:green">Además, en la defensa de la postura más conservadora, se lanzaron acusaciones a las personas que defendían la otra visión. Ante la acusación de "sois unos pijos" el debate cambió de foco. Ya no se debatía sobre la estación en sí, sino sobre las características (criticables) de las personas que defendían cada visión. Era una teatralización de la forma en la que vemos que discuten los políticos, por ejemplo. Afortunadamente contamos con la participación de una persona experta en facilitación (Javier Moreno Ortiz, de la cooperativa [PASOS](https://pasos.coop/)), que nos enseñó a discutir mejor. Ahí van algunos de los principales aprendizajes adquiridos: </span>**
+
++ **<span style="color:green"> Cuando alguien acusa a un grupo de algo de forma muy vehemente, suele esconder algún "punto de dolor" que resulta interesante abordar de manera explícita o implícita. La acusación de "pijos" a las personas que defendían la estación de esquí escondía, quizás, pena por ver el deterioro ambiental que provoca esta actividad. Si ponemos el foco en el lenguaje explícito sin profundizar en las motivaciones últimas que lo ocasionan, es poco probable que lleguemos a una solución. </span>**
++ **<span style="color:green"> Entender la visión de "los otros" es muy útil para tratar de formular los planteamientos propios de manera que puedan ser más fácilmente asumibles por todo el mundo. Al poner esto en práctica fuimos acercando poco a poco posturas. De manera figurada y también literal. Los estudiantes se iban desplazando entre los dos focos iniciales conforme las argumentaciones les iban resultando más atractivas. </span>**
++ **<span style="color:green"> En un momento dado, un estudiante dijo que prefería comer antes de que en Sierra Nevada se mantuviera la flora bien conservada. Esta afirmación maximalista suele llevarnos a posiciones extremas que no nos ayudan a resolver el conflicto. Por supuesto que todos preferimos comer a que haya flora en Sierra Nevada. Pero es que ahí no está el debate. Es posible comer y mantener la flora. La clave está en buscar un escenario en el que las infraestructuras y actividades humanas nos provean de sustento y al mismo tiempo no interfieran con los procesos naturales de manera irreversible. La teoría de los sistemas complejos nos enseña que esto es posible reduciendo la intensidad de la actividad humana por metro cuadrado, pero aumentando su extensión en superficie. </span>**
+
+**<span style="color:green">A continuación mostramos algunas fotos del debate y del bonito atardecer que nos acompañó: </span>**
+
+![debate1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/debate1.jpg)
+
+![debate2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/debate2.jpg)
 
 
 
@@ -220,6 +244,8 @@ A continuación mostramos algunas fotos del debate y del bonito atardecer que no
 ### Actividad de captura de insectos nocturnos
 
 La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
+
+**<span style="color:green">Fuimos muy aplicados y pusimos una trampa de luz para insectos, pero no tuvimos éxito. No al menos con los insectos. Ninguno cayó en la trampa. Seguramente hacía demasiado frío para ello. El paseo nocturno se saldó con el avistamiento de algunos líquenes fluorescentes frente a la luz ultravioleta, una silueta de un excremento de caca con forma sospechosa, algunos isópodos y poco más. Eso sí, conversamos bajo la luna sobre sostenibilidad, economía ambiental y otras cuestiones...  </span>**
 
 
 
