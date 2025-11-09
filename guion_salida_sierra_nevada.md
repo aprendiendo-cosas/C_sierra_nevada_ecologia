@@ -151,9 +151,8 @@ En concreto se aplicarán los siguientes métodos de captura de información:
 
 #### Caracterización de la vegetación y del suelo
 
-Todos los estudiantes tendrán que usar la aplicación Epicollect5 (instalada en sus dispositivos móviles) para tomar datos sobre la cobertura de distintas especies vegetales encontradas.
-Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
-Para facilitar el trabajo, hemos preparado el siguiente proyecto
+Todos los estudiantes tendrán que usar la aplicación Epicollect5 (instalada en sus dispositivos móviles) para tomar datos sobre la cobertura de distintas especies vegetales encontradas. Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
+Para facilitar el trabajo, hemos preparado el siguiente proyecto:
 
 *Muestreo cobertura especies*. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
 
@@ -195,7 +194,26 @@ La actividad que proponemos tiene varios objetivos docentes:
 + Entender, aunque de manera superficial, la complejidad inherente a los problemas socioecológicos.
 + Proponer actuaciones que satisfagan las necesidades de los actores implicados.
 
-Desvelaremos la estructura y contenidos de la dinámica propuesta a su debido tiempo :)
+Esta actividad resultó ser un éxito a pesar del frío que hacía. Estábamos a más de 2000 m de altura al final del día. La temperatura era inferior a 5º. Pero el debate caldeó el ambiente.
+
+La actividad empezó con una defensa airada de dos posturas extremas: 
+
++ La estación de esquí supone un impacto ambiental inasumible y debe de ser destruida.
++ La estación de esquí aporta recursos económicos y sociales, por lo que debe de promoverse su mantenimiento y uso. 
+
+Además, en la defensa de la postura más conservadora, se lanzaron acusaciones a las personas que defendían la otra visión. Ante la acusación de "sois unos pijos" el debate cambió de foco. Ya no se debatía sobre la estación en sí, sino sobre las características (criticables) de las personas que defendían cada visión. Era una teatralización de la forma en la que vemos que discuten los políticos, por ejemplo. Afortunadamente contamos con la participación de una persona experta en facilitación (Javier Moreno Ortiz, de la cooperativa [PASOS](https://pasos.coop/)), que nos enseñó a discutir mejor. Ahí van algunos de los principales aprendizajes adquiridos:
+
++ Cuando alguien acusa a un grupo de algo de forma muy vehemente, suele esconder algún "punto de dolor" que resulta interesante abordar de manera explícita o implícita. La acusación de "pijos" a las personas que defendían la estación de esquí escondía, quizás, pena por ver el deterioro ambiental que provoca esta actividad. Si ponemos el foco en el lenguaje explícito sin profundizar en las motivaciones últimas que lo ocasionan, es poco probable que lleguemos a una solución.
++ Entender la visión de "los otros" es muy útil para tratar de formular los planteamientos propios de manera que puedan ser más fácilmente asumibles por todo el mundo. Al poner esto en práctica fuimos acercando poco a poco posturas. De manera figurada y también literal. Los estudiantes se iban desplazando entre los dos focos iniciales conforme las argumentaciones les iban resultando más atractivas. 
++ En un momento dado, un estudiante dijo que prefería comer antes de que en Sierra Nevada se mantuviera la flora bien conservada. Esta afirmación maximalista suele llevarnos a posiciones extremas que no nos ayudan a resolver el conflicto. Por supuesto que todos preferimos comer a que haya flora en Sierra Nevada. Pero es que ahí no está el debate. Es posible comer y mantener la flora. La clave está en buscar un escenario en el que las infraestructuras y actividades humanas nos provean de sustento y al mismo tiempo no interfieran con los procesos naturales de manera irreversible. La teoría de los sistemas complejos nos enseña que esto es posible reduciendo la intensidad de la actividad humana por metro cuadrado, pero aumentando su extensión en superficie.
+
+A continuación mostramos algunas fotos del debate y del bonito atardecer que nos acompañó:
+
+
+
+
+
+
 
 
 
@@ -250,6 +268,27 @@ Las dos figuras anteriores se han extraído de [este](http://www.juntadeandaluci
 
 
 
+
+
+
+---
+[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+---
+
+Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+---
+<p xmlns:cc="http://creativecommons.org/ns#">
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
+Estos productos tienen su licencia correspondiente.</p>
+---
+
+
+
+
+
 ## Estaremos encantados de leer y de tener en cuenta tus comentarios sobre la salida a Sierra Nevada:
 
 
@@ -282,28 +321,5 @@ window.addEventListener('load', function () {
     }, 3000);
 });
 </script>
-
-
-
-
-------------------------------------------------------------------------
-
-[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
-
-------------------------------------------------------------------------
-
-Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
-
-------------------------------------------------------------------------
-
-<p xmlns:cc="http://creativecommons.org/ns#">
- <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
-
-
-<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
-Estos productos tienen su licencia correspondiente.</p>
-
-
----
 
 
