@@ -4,12 +4,12 @@
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
 > -   **_Versión_**: 2025-2026
 > -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), Edafología (Ingeniería Forestal)
-> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Cristina Acosta Muñoz (z52acmuc@uco.es), Ginés Rodríguez Castilla (b52rocag@uco.es) y Francisco Tomás Riera (O22torif@uco.es)
+> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Ginés Rodríguez Castilla (b52rocag@uco.es) y Francisco Tomás Riera (O22torif@uco.es)
 > -   **_Fecha y Duración_**: 6 y 7 de noviembre de 2025
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
-<span style="color:green">**Nota importante post-excursión:** se muestra en este color el texto añadido para comentar lo que ocurrió en la salida.</span>
+<span style="color:green">**Nota post-excursión:** se muestra en este color el texto añadido para comentar lo que ocurrió en la salida.</span>
 
 
 
@@ -183,7 +183,11 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 - [Información interpretativa sobre la laguna de zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/012b87f8-80bb-3b01-92a7-0f9d7a7a0f29) 
 
+
+
 **<span style="color:green">Además de lo previsto, la visita a Zóñar nos deparó una sorpresa: los técnicos de la delegación provincial de medio ambiente de Córdoba tenían previsto para el día de nuestra visita la liberación de un ejemplar de búho real (*Bubo bubo*). Fue una coincidencia afortunada que nosotros estuviéramos allí ese día. Así que nos llevamos el regalo de soltar un búo en directo. El pobre animal sufrió un accidente y tuvo que pasar por el centro de recuperación de especies amenazadas. Tras ser cuidado por la veterinaria Marian, se procedó a su suelta. Una estudiante de ambientales fue la afortunada que se encargó de liberar al animal. Como es tradición, nos dieron la oportunidad de darle nombre. El nombre elegido fue  Zóñar, aunque de forma extraoficial recibió el nombre de "Vidal el búho", en honor de nuestro querido profesor de edafología. </span>**
+
+
 
 ![buho1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/buho1.jpg)
 
@@ -306,12 +310,9 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 
 ---
 <p xmlns:cc="http://creativecommons.org/ns#">
- <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
-<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales.
-Estos productos tienen su licencia correspondiente.</p>
+<p xmlns:cc="http://creativecommons.org/ns#" >El contenido original de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a>
+
 ---
-
-
 
 
 
