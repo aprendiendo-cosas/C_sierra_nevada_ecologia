@@ -196,10 +196,6 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 
 
-
-
-
-
 ### Itinerario geológico de la visita
 
 [En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
@@ -250,6 +246,17 @@ La actividad que proponemos tiene varios objetivos docentes:
 La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
 
 **<span style="color:green">Fuimos muy aplicados y pusimos una trampa de luz para insectos, pero no tuvimos éxito. No al menos con los insectos. Ninguno cayó en la trampa. Seguramente hacía demasiado frío para ello. El paseo nocturno se saldó con el avistamiento de algunos líquenes fluorescentes frente a la luz ultravioleta, una silueta de un excremento de caca con forma sospechosa, algunos isópodos y poco más. Eso sí, conversamos bajo la luna sobre sostenibilidad, economía ambiental y otras cuestiones...  </span>**
+
+
+
+### <span style="color:green">Seminario sobre la cabra montés en Sierra Nevada</span>
+
+**<span style="color:green">Como estaba previsto, el viernes por la mañana tuvimos la oportunidad de escuchar una disertación muy detallada sobre la cabra montés y sus problemas de conservación en Sierra Nevada. Fue José Enrique Granados Torres el que hizo la presentación. José Enrique lleva más de 20 años trabajando con la cabra montés en Sierra Nevada y en el resto de Andalucía. Hizo su tesis doctoral sobre esta especie y ha acumulado una gran experiencia en su manejo. [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/cabra_montes.pdf) puedes descargar la presentación que usó para su charla. </span>**
+
+
+
+![cabra](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/cabra.jpg)
+
 
 
 
