@@ -7,7 +7,7 @@
 > -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Ginés Rodríguez Castilla (b52rocag@uco.es) y Francisco Tomás Riera (O22torif@uco.es)
 > -   **_Fecha y Duración_**: 6 y 7 de noviembre de 2025
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/portada.jpg)
 
 <span style="color:green">**Nota post-excursión:** se muestra en este color el texto añadido para comentar lo que ocurrió en la salida.</span>
 
@@ -142,11 +142,11 @@ En primer lugar, al llegar al sitio de interés, uno o varios de los profesores 
 
 Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y lean el siguiente material:
 
--   [Generalidades de la vegetación, la flora y la fauna de algunos ecosistemas de Sierra Nevada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ecosistemas_sierra_nevada.pdf). Se trata de un fragmento del libro "Parque Natural de Sierra Nevada", escrito por Joaquín Molero Mesa en 1992. Este libro describe los principales ecosistemas de Sierra Nevada con una perspectiva botánica basada en las Series de Vegetación. Es muy interesante para entender la estructura y composición específica de los distintos ecosistemas que veremos.
--   En la visita al bosque de ribera del río Genil observaremos poblaciones de especies invasoras. Concretamente de *Ailanthus altissima*. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_caracteristicas_invasion_ailanto.pdf) artículo y en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/ribera_ailanthus_altissima_2013_tcm30-69804.pdf) otro informe se habla con detalle de esta especie invasora.
--   Artículos diversos sobre [pinares de repoblación](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pinares_repoblacion.pdf). Esta colección de artículos procede de un libro editado por el Observatorio de Seguimiento del Cambio Global en Sierra Nevada en 2015.
--   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
--   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
+-   [Generalidades de la vegetación, la flora y la fauna de algunos ecosistemas de Sierra Nevada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ecosistemas_sierra_nevada.pdf). Se trata de un fragmento del libro "Parque Natural de Sierra Nevada", escrito por Joaquín Molero Mesa en 1992. Este libro describe los principales ecosistemas de Sierra Nevada con una perspectiva botánica basada en las Series de Vegetación. Es muy interesante para entender la estructura y composición específica de los distintos ecosistemas que veremos.
+-   En la visita al bosque de ribera del río Genil observaremos poblaciones de especies invasoras. Concretamente de *Ailanthus altissima*. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ribera_caracteristicas_invasion_ailanto.pdf) artículo y en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ribera_ailanthus_altissima_2013_tcm30-69804.pdf) otro informe se habla con detalle de esta especie invasora.
+-   Artículos diversos sobre [pinares de repoblación](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pinares_repoblacion.pdf). Esta colección de artículos procede de un libro editado por el Observatorio de Seguimiento del Cambio Global en Sierra Nevada en 2015.
+-   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
+-   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
 
 ### Captura de datos
 
@@ -163,7 +163,7 @@ Para facilitar el trabajo, hemos preparado el siguiente proyecto:
 
 Los estudiantes tendrán que tomar datos con este formulario en todas las paradas. 
 
-<span style="color:green">**Los datos generados por todos los estudiantes en todas las paradas están accesibles en este enlace** </span>
+<span style="color:green">**Los datos generados por todos los estudiantes en todas las paradas están accesibles en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/geoinfo/datos.zip) enlace. Los datos están en formato csv y se pueden importar fácilmente con excel.** </span>
 
 
 
@@ -189,16 +189,16 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 
 
-![buho1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/buho1.jpg)
+![buho1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/buho1.jpg)
 
-![buho2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/buho2.png)
+![buho2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/buho2.png)
 
 
 
 
 ### Itinerario geológico de la visita
 
-[En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
+[En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
 
 
 
@@ -233,9 +233,9 @@ La actividad que proponemos tiene varios objetivos docentes:
 
 **<span style="color:green">A continuación mostramos algunas fotos del debate y del bonito atardecer que nos acompañó: </span>**
 
-![debate1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/debate1.jpg)
+![debate1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/debate1.jpg)
 
-![debate2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/debate2.jpg)
+![debate2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/debate2.jpg)
 
 
 
@@ -251,11 +251,11 @@ La actividad consistirá en la colocación de una serie de trampas de luz para i
 
 ### <span style="color:green">Seminario sobre la cabra montés en Sierra Nevada</span>
 
-**<span style="color:green">Como estaba previsto, el viernes por la mañana tuvimos la oportunidad de escuchar una disertación muy detallada sobre la cabra montés y sus problemas de conservación en Sierra Nevada. Fue José Enrique Granados Torres el que hizo la presentación. José Enrique lleva más de 20 años trabajando con la cabra montés en Sierra Nevada y en el resto de Andalucía. Hizo su tesis doctoral sobre esta especie y ha acumulado una gran experiencia en su manejo. [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/main/biblio/cabra_montes.pdf) puedes descargar la presentación que usó para su charla. </span>**
+**<span style="color:green">Como estaba previsto, el viernes por la mañana tuvimos la oportunidad de escuchar una disertación muy detallada sobre la cabra montés y sus problemas de conservación en Sierra Nevada. Fue José Enrique Granados Torres el que hizo la presentación. José Enrique lleva más de 20 años trabajando con la cabra montés en Sierra Nevada y en el resto de Andalucía. Hizo su tesis doctoral sobre esta especie y ha acumulado una gran experiencia en su manejo. [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/cabra_montes.pdf) puedes descargar la presentación que usó para su charla. </span>**
 
 
 
-![cabra](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/cabra.jpg)
+![cabra](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/cabra.jpg)
 
 
 
@@ -276,7 +276,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 El siguiente mapa muestra la distribución de estos ecosistemas principales.
 En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/ecosistemas.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/ecosistemas.png)
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
 
@@ -289,7 +289,7 @@ Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobota
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí.
 Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos.
@@ -299,7 +299,7 @@ Así, en la alta montaña es frecuente encontrar plantas con partes aéreas post
 
 El siguiente esquema muestra alguna de estas adaptaciones.
 
-![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2023-2024/imagenes/adaptaciones.png)
+![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/adaptaciones.png)
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía.
 
