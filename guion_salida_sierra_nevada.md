@@ -11,9 +11,9 @@
 
 
 
+[TOC]
 
-
-## Objetivos
+## 1. Objetivos
 
 Esta actividad teórico-práctica-social tiene los siguientes objetivos:
 
@@ -42,7 +42,7 @@ Además de los objetivos docentes, es importante destacar que asistimos estudian
 
 
 
-## Itinerario 
+## 2. Itinerario 
 
 El siguiente mapa muestra el itinerario que realizaremos y las paradas. Es un mapa dinámico, así que puedes hacer zoom y desplazarte para verlo todo bien.
 
@@ -93,7 +93,7 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
 
 
 
-## Lo que necesitas llevar para la salida
+## 3. Lo que necesitas llevar para la salida
 
 La siguiente lista contiene las indicaciones que deberás tener en cuenta para preparar la actividad y durante su realización.
 
@@ -131,11 +131,11 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 
 
-## Dinámica de las paradas
+## 4. Dinámica de las paradas
 
 Todas las paradas relacionadas con tipos de ecosistemas que hagamos durante la salida tendrán la misma estructura:
 
-### Caracterización del tipo de ecosistema visitado
+### 4.1 Caracterización del tipo de ecosistema visitado
 
 En primer lugar, al llegar al sitio de interés, uno o varios de los profesores que van a la salida se encargará de explicar cuestiones generales sobre los ecosistemas visitados. También se pondrán de manifiesto las diferencias entre los ecosistemas. La información suministrada es de gran importancia para todos los estudiantes, pero especialmente para los del grado de ciencias ambientales, que tienen que hacer un trabajo sobre distintos tipos de ecosistemas. 
 
@@ -147,32 +147,13 @@ Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y
 -   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
 -   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
 
-### Captura de datos
+### 4.2 Captura de datos
 
-Además de explicar cuestiones diversas en cada una de las paradas, capturaremos datos relacionados con la estructura, composición y contexto abiótico de los distintos tipos de ecosistemas visitados. También capturaremos información para validar un ejercicio de clasificación supervisada que se realizará en la asignatura de SIG de ciencias ambientales.
-
-En concreto se aplicarán los siguientes métodos de captura de información:
-
-#### Caracterización de la vegetación y del suelo
-
-Todos los estudiantes tendrán que usar la aplicación Epicollect5 (instalada en sus dispositivos móviles) para tomar datos sobre la cobertura de distintas especies vegetales encontradas. Esta aplicación permite crear formularios de captura de datos para ser utilizados en el móvil.
-Para facilitar el trabajo, hemos preparado el siguiente proyecto:
-
-*Muestreo cobertura especies*. Este muestreo permite caracterizar el porcentaje de suelo cubierto por las distintas especies presentes en un ecosistema determinado. Para encontrar este muestreo en Epicollect, hay que entrar en la aplicación y buscar "Muestreo cobertura especies". Este formulario está pensado para tomar datos de individuos vegetales leñosos. Así será en todas las paradas excepto en la de los pastizales de alta montaña. En ese caso también se tomarán datos de las especies herbáceas encontradas.
-
-Los estudiantes tendrán que tomar datos con este formulario en todas las paradas. 
+Por concretar
 
 
 
-#### Toma de puntos de "verdad terreno" para validar una clasificación supervisada de una imagen de satélite
-
-Aunque no se haya visto aún en las sesiones de teoría, os adelanto que vamos a ver en el bloque de teledetección de la asignatura de SIG diferentes técnicas de clasificación. Con estas técnicas podemos conocer qué tipo de uso o cubierta tiene el terreno. Un paso fundamental en el desarrollo de un flujo de trabajo de clasificación es hacer una validación de esta. La validación nos permite saber hasta qué punto la clasificación que hemos hecho es fiable usando diferentes métricas. Y para hacer esta validación necesitamos conocer la “verdad terreno”, es decir, debemos saber lo que hay en realidad en campo para poder comparar esta “verdad terreno” con lo predicho por nuestra clasificación.  
-
-Durante una de las sesiones prácticas haremos una clasificación de la zona por la que se va a desarrollar este viaje de prácticas. Así que aprovecharemos las diferentes paradas del viaje para, usando QField, crear una capa vectorial de puntos con información sobre el tipo de ecosistema presente en cada parada. Para poder hacer esto, Jorge os pasará por Moodle unas capas con las que deberéis montar un proyecto tal y como hicisteis en la práctica en la que trabajasteis con QField en Rabanales. Recordad que podéis no tener cobertura durante parte del viaje, así que lo mejor sería descargar el proyecto en vuestro móvil usando la nube de QGIS antes de salir de viaje. 
-
-
-
-### Avistamiento de aves en el lago de Zóñar
+### 4.3 Avistamiento de aves en el lago de Zóñar
 
 La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el único lago natural de Andalucía, lo que le confiere su singularidad y su especial interés ecológico. En esta parada veremos el funcionamiento de un sistema acuático léntico (agua estancada) considerando su sistema de recarga, comportamiento estacional y dinámica de recursos, así como la rica flora y fauna asociada. Además podremos comprobar el resultado de un ejemplo de erradicación de fauna invasora con muchas historia. 
 
@@ -182,13 +163,13 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 
 
 
-### Itinerario geológico de la visita
+### 4.4 Itinerario geológico de la visita
 
 [En esta guía](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/itinerariogeo-edafologico2025.pdf) podréis ver la descripción del itinerario geológico y edafológico que recorreremos durante la excursión
 
 
 
-### Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
+### 4.5 Actividad de debate y reflexión sobre la estación de esquí de Sierra Nevada
 
 La estación de esquí de Sierra Nevada se llama "Sol y Nieve". Se encuentra situada entre la cota 2300 y la 3100 m del valle del río Monachil. Fue inaugurada en 1964. Desde entonces ha ido creciendo y en la actualidad es una de las estaciones de esquí más grandes de España. Destaca por su capacidad de producir nieve artificial y por la gran cantidad de kilómetros esquiables que hay disponibles hacia el final de la temporada.
 
@@ -202,12 +183,14 @@ La actividad que proponemos tiene varios objetivos docentes:
 + Proponer actuaciones que satisfagan las necesidades de los actores implicados.
 
 
-### Actividad de captura de insectos nocturnos
+
+### 4.6 Actividad de captura de insectos nocturnos
 
 La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
 
 
-## Contextualización ecológica de Sierra Nevada
+
+## 5. Contextualización ecológica de Sierra Nevada
 
 Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
 
@@ -223,7 +206,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 El siguiente mapa muestra la distribución de estos ecosistemas principales.
 En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/ecosistemas.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/ecosistemas.png)
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
 
@@ -262,7 +245,7 @@ Las dos figuras anteriores se han extraído de [este](http://www.juntadeandaluci
 
 
 ---
-[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ---
 
@@ -273,5 +256,4 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 <p xmlns:cc="http://creativecommons.org/ns#" >El contenido original de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a>
 
 ---
-
 
