@@ -219,7 +219,7 @@ Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobota
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí.
 Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos.
