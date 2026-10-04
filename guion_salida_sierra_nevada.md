@@ -3,13 +3,13 @@
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
 > -   **_Versión_**: 2025-2026
-> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), Edafología (Ingeniería Forestal)
-> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), Sara Navarro López (b62nalos@uco.es), Kathy Onoszko (g02ononk@uco.es), Ginés Rodríguez Castilla (b52rocag@uco.es) y Francisco Tomás Riera (O22torif@uco.es)
-> -   **_Fecha y Duración_**: 6 y 7 de noviembre de 2025
+> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), SIG (Ciencias ambientales), Edafología (Ingeniería Forestal)
+> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es) y otros más por confirmar...
+> -   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2026_2027/imagenes/portada.jpg)
 
-<span style="color:green">**Nota post-excursión:** se muestra en este color el texto añadido para comentar lo que ocurrió en la salida.</span>
+
 
 
 
@@ -55,7 +55,7 @@ El siguiente mapa muestra el itinerario que realizaremos y las paradas. Es un ma
 La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
 En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, tipos de suelos, captura de datos, etc.
 
-**Día 6 de noviembre**
+**Día 5 de noviembre**
 
 | Evento                                                       | Hora inicio | Hora fin |
 | ------------------------------------------------------------ | ----------- | -------- |
@@ -72,7 +72,7 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
 | Tiempo libre                                                 | 19:00       | 21:00    |
 | **Actividad de captura de insectos nocturnos**               | 21:00       | 22:00    |
 
-**Día 7 de noviembre**
+**Día 6 de noviembre**
 
 | Evento                                                       | Hora inicio | Hora fin |
 | ------------------------------------------------------------ | ----------- | -------- |
@@ -99,13 +99,12 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 
 -   Sé puntual. Si no estás a tiempo el autobús se irá sin ti.
 -   Si te has apuntado a la actividad tienes la obligación moral de asistir. La mayoría del dinero que financia esta excursión viene de los impuestos que pagamos todos. Honra el trabajo de tus mayores y ven a aprender y a disfrutar :)
--   Aún así, has de pagar 10€ si quieres asistir. Dáselos a Pablo o a Curro en la semana del día 27 de octubre. Si no pagas, te quedas en tierra. Si no puedes pagar, habla con tus profesores. Buscaremos una solución. Nadie se quedará en tierra por no disponer de recursos.
 -   Estaremos buena parte del tiempo a más de 2000 m de altura en el mes de noviembre. Aunque tenemos un otoño más bien primaveral, se esperan temperaturas bajas (unos 5º) por la noche. Así que, llevad ropa de abrigo.
- * Como ya os comentamos, tenéis que gestionar vuestra comida. Os contamos dónde estaremos en cada comida y qué opciones tenéis:
-    * Almuerzo del día 6: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)). Como vamos justos de tiempo, llevad un bocata o similar para esa comida.
-     * Cena del día 6: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen concina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
-     * Desayuno del día 7: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos.
-     * Almuerzo del día 7: Estaremos en mitad del campo sin posibilidad de comprar nada, así que la única opción viable aquí es que traigáis bocadillos o comida ya preparada.
+ * Tenéis que gestionar vuestra comida. Os contamos dónde estaremos en cada comida y qué opciones tenéis:
+    * Almuerzo del día 5: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)). Como vamos justos de tiempo, llevad un bocata o similar para esa comida.
+     * Cena del día 5: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen concina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
+     * Desayuno del día 6: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos.
+     * Almuerzo del día 6: Estaremos en mitad del campo sin posibilidad de comprar nada, así que la única opción viable aquí es que traigáis bocadillos o comida ya preparada.
 -   Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomendamos que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Con 2 litros de agua por persona y día es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
 -   Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada. Aunque estemos en otoño, sí.
 -   Prismáticos y telescopios. En varias paradas intentaremos ver fauna silvestre (p.ej. Laguna de Zóñar y cabras monteses en Sierra Neavada) así que intenta buscar algún prismático para la visita.  Los docentes llevaremos algún equipo extra pero mejor que traigas tu propio equipo.  
@@ -163,8 +162,6 @@ Para facilitar el trabajo, hemos preparado el siguiente proyecto:
 
 Los estudiantes tendrán que tomar datos con este formulario en todas las paradas. 
 
-<span style="color:green">**Los datos generados por todos los estudiantes en todas las paradas están accesibles en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/geoinfo/datos.zip) enlace. Los datos están en formato csv y se pueden importar fácilmente con excel.** </span>
-
 
 
 #### Toma de puntos de "verdad terreno" para validar una clasificación supervisada de una imagen de satélite
@@ -182,17 +179,6 @@ La Laguna de Zóñar es, por su extensión, profundidad y funcionamiento, el ún
 - [Aspectos más relevantes de la Reserva natural  Laguna de Zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/c09d2fb9-e8c7-0038-c38f-77714d82e080) 
 
 - [Información interpretativa sobre la laguna de zóñar](https://www.juntadeandalucia.es/medioambiente/portal/documents/20151/012b87f8-80bb-3b01-92a7-0f9d7a7a0f29) 
-
-
-
-**<span style="color:green">Además de lo previsto, la visita a Zóñar nos deparó una sorpresa: los técnicos de la delegación provincial de medio ambiente de Córdoba tenían previsto para el día de nuestra visita la liberación de un ejemplar de búho real (*Bubo bubo*). Fue una coincidencia afortunada que nosotros estuviéramos allí ese día. Así que nos llevamos el regalo de soltar un búo en directo. El pobre animal sufrió un accidente y tuvo que pasar por el centro de recuperación de especies amenazadas. Tras ser cuidado por la veterinaria Marian, se procedó a su suelta. Una estudiante de ambientales fue la afortunada que se encargó de liberar al animal. Como es tradición, nos dieron la oportunidad de darle nombre. El nombre elegido fue  Zóñar, aunque de forma extraoficial recibió el nombre de "Vidal el búho", en honor de nuestro querido profesor de edafología. </span>**
-
-
-
-![buho1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/buho1.jpg)
-
-![buho2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/buho2.png)
-
 
 
 
@@ -216,48 +202,9 @@ La actividad que proponemos tiene varios objetivos docentes:
 + Proponer actuaciones que satisfagan las necesidades de los actores implicados.
 
 
-
-**<span style="color:green"> Esta actividad resultó ser un éxito a pesar del frío que hacía. Estábamos a más de 2000 m de altura al final del día. La temperatura era inferior a 5º. Pero el debate caldeó el ambiente... </span>**
-
-**<span style="color:green">La actividad empezó con una defensa airada de dos posturas extremas: </span>**
-
-+ **<span style="color:green"> La estación de esquí supone un impacto ambiental inasumible y debe de ser destruida.  </span>**
-
-+ **<span style="color:green"> La estación de esquí aporta recursos económicos y sociales, por lo que debe de promoverse su mantenimiento y uso. </span>**
-
-**<span style="color:green">Además, en la defensa de la postura más conservadora, se lanzaron acusaciones a las personas que defendían la otra visión. Ante la acusación de "sois unos pijos" el debate cambió de foco. Ya no se debatía sobre la estación en sí, sino sobre las características (criticables) de las personas que defendían cada visión. Era una teatralización de la forma en la que vemos que discuten los políticos, por ejemplo. Afortunadamente contamos con la participación de una persona experta en facilitación (Javier Moreno Ortiz, de la cooperativa [PASOS](https://pasos.coop/)), que nos enseñó a discutir mejor. Ahí van algunos de los principales aprendizajes adquiridos: </span>**
-
-+ **<span style="color:green"> Cuando alguien acusa a un grupo de algo de forma muy vehemente, suele esconder algún "punto de dolor" que resulta interesante abordar de manera explícita o implícita. La acusación de "pijos" a las personas que defendían la estación de esquí escondía, quizás, pena por ver el deterioro ambiental que provoca esta actividad. Si ponemos el foco en el lenguaje explícito sin profundizar en las motivaciones últimas que lo ocasionan, es poco probable que lleguemos a una solución. </span>**
-+ **<span style="color:green"> Entender la visión de "los otros" es muy útil para tratar de formular los planteamientos propios de manera que puedan ser más fácilmente asumibles por todo el mundo. Al poner esto en práctica fuimos acercando poco a poco posturas. De manera figurada y también literal. Los estudiantes se iban desplazando entre los dos focos iniciales conforme las argumentaciones les iban resultando más atractivas. </span>**
-+ **<span style="color:green"> En un momento dado, un estudiante dijo que prefería comer antes de que en Sierra Nevada se mantuviera la flora bien conservada. Esta afirmación maximalista suele llevarnos a posiciones extremas que no nos ayudan a resolver el conflicto. Por supuesto que todos preferimos comer a que haya flora en Sierra Nevada. Pero es que ahí no está el debate. Es posible comer y mantener la flora. La clave está en buscar un escenario en el que las infraestructuras y actividades humanas nos provean de sustento y al mismo tiempo no interfieran con los procesos naturales de manera irreversible. La teoría de los sistemas complejos nos enseña que esto es posible reduciendo la intensidad de la actividad humana por metro cuadrado, pero aumentando su extensión en superficie. </span>**
-
-**<span style="color:green">A continuación mostramos algunas fotos del debate y del bonito atardecer que nos acompañó: </span>**
-
-![debate1](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/debate1.jpg)
-
-![debate2](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/debate2.jpg)
-
-
-
-
-
 ### Actividad de captura de insectos nocturnos
 
 La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
-
-**<span style="color:green">Fuimos muy aplicados y pusimos una trampa de luz para insectos, pero no tuvimos éxito. No al menos con los insectos. Ninguno cayó en la trampa. Seguramente hacía demasiado frío para ello. El paseo nocturno se saldó con el avistamiento de algunos líquenes fluorescentes frente a la luz ultravioleta, una silueta de un excremento de caca con forma sospechosa, algunos isópodos y poco más. Eso sí, conversamos bajo la luna sobre sostenibilidad, economía ambiental y otras cuestiones...  </span>**
-
-
-
-### <span style="color:green">Seminario sobre la cabra montés en Sierra Nevada</span>
-
-**<span style="color:green">Como estaba previsto, el viernes por la mañana tuvimos la oportunidad de escuchar una disertación muy detallada sobre la cabra montés y sus problemas de conservación en Sierra Nevada. Fue José Enrique Granados Torres el que hizo la presentación. José Enrique lleva más de 20 años trabajando con la cabra montés en Sierra Nevada y en el resto de Andalucía. Hizo su tesis doctoral sobre esta especie y ha acumulado una gran experiencia en su manejo. [Aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/cabra_montes.pdf) puedes descargar la presentación que usó para su charla. </span>**
-
-
-
-![cabra](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/cabra.jpg)
-
-
 
 
 ## Contextualización ecológica de Sierra Nevada
@@ -276,7 +223,7 @@ El paisaje de Sierra Nevada está ocupado por distintos tipos de ecosistemas:
 El siguiente mapa muestra la distribución de estos ecosistemas principales.
 En [este](https://digibug.ugr.es/bitstream/handle/10481/54685/2010_Bonet_etal_DOSSIER.pdf?sequence=1&isAllowed=y) libro puedes ver una descripción más detallada de cada uno de ellos.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/ecosistemas.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/ecosistemas.png)
 
 Una de las primeras cuestiones que destaca de Sierra Nevada (y de casi cualquier montaña), es la forma en la que se distribuyen los ecosistemas terrestres a lo largo de su gradiente altitudinal. En Sierra Nevada este gradiente es muy intenso, debido a su elevación. Tanto que en este macizo se encuentran buena parte de las condiciones climáticas existentes en Andalucía. Desde los 500 m de altura hasta los 3480 hay mucho espacio para que se manfiesten distintas combinaciones climáticas.
 
@@ -289,7 +236,7 @@ Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobota
 
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
-![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/pisos_vegetacion.png)
+![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/pisos_vegetacion.png)
 
 Otro aspecto que despierta mucho interés en las montañas es el conjunto de adaptaciones que tienen los seres vivos que desarrollan su actividad allí.
 Las duras condiciones ambientales generan una fuerte presión selectiva que fomenta la especialización de los organismos.
@@ -299,7 +246,13 @@ Así, en la alta montaña es frecuente encontrar plantas con partes aéreas post
 
 El siguiente esquema muestra alguna de estas adaptaciones.
 
-![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia_ccaa/refs/tags/2025_2026/imagenes/adaptaciones.png)
+![adaptaciones](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2025_2026/imagenes/adaptaciones.png)
+
+
+
+
+
+
 
 Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía.
 
@@ -320,40 +273,5 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/
 <p xmlns:cc="http://creativecommons.org/ns#" >El contenido original de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a>
 
 ---
-
-
-
-## Estaremos encantados de leer y de tener en cuenta tus comentarios sobre la salida a Sierra Nevada:
-
-
-
-<style>
-#cusdis_thread {
-  max-width: 100%;
-  margin: 0 auto;
-}
-</style>
-
-<div id="cusdis_thread"
-     data-host="https://cusdis.com"
-     data-app-id="fcdc1c79-b0bd-4fde-b3ed-874d7f166442"
-     data-page-id="guion_salida_sierra_nevada"
-     data-page-url="https://aprendiendo-cosas.github.io/C_sierra_nevada_ecologia/guion_salida_sierra_nevada.html"
-     data-page-title="guion_salida_sierra_nevada">
-</div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-
-<script>
-window.addEventListener('load', function () {
-    setTimeout(() => {
-        // Busca el iframe generado por Cusdis dentro del div con id "cusdis_thread"
-        let iframe = document.querySelector("#cusdis_thread iframe");
-        if (iframe && iframe.contentWindow && iframe.contentWindow.document && iframe.contentWindow.document.body) {
-            let scrollHeight = iframe.contentWindow.document.body.scrollHeight;
-            iframe.style.height = scrollHeight + "px";
-        }
-    }, 3000);
-});
-</script>
 
 
