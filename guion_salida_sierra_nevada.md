@@ -2,7 +2,7 @@
 # Guión de la excursión a Sierra Nevada (y al lago de Zóñar)
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
-> -   **_Versión_**: 2025-2026
+> -   **_Versión_**: 2026-2027
 > -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), SIG (Ciencias ambientales), Edafología (Ingeniería Forestal)
 > -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es) y otros más por confirmar...
 > -   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
