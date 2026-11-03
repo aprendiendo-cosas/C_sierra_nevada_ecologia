@@ -2,10 +2,10 @@
 # Guión de la excursión a Sierra Nevada (y al lago de Zóñar)
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
-> -   **_Versión_**: 2026-2027
-> -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), SIG (Ciencias ambientales), Edafología (Ingeniería Forestal)
-> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), José Luis Quero (jose.quero@uco.es) y Rocío Hernández (rociohc@uco.es)
-> -   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
+> +  **_Versión_**: 2026-2027
+> +   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), SIG (Ciencias ambientales), Edafología (Ingeniería Forestal)
+> +   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), José Luis Quero (jose.quero@uco.es) y Rocío Hernández (rociohc@uco.es)
+> +   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
@@ -294,12 +294,12 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 -   Estaremos buena parte del tiempo a más de 2000 m de altura en el mes de noviembre. Aunque tenemos un otoño más bien primaveral, se esperan temperaturas bajas (unos 5º) por la noche. Así que, llevad ropa de abrigo.
  * Tenéis que gestionar vuestra comida. Os contamos dónde estaremos en cada comida y qué opciones tenéis:
     * Almuerzo del día 5: nos pillará en un núcleo urbano ([Cenes de la Vega](https://maps.app.goo.gl/gYoDbDG7uvbwm8eR8)). Como vamos justos de tiempo, llevad un bocata o similar para esa comida.
-     * Cena del día 5: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen concina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
-     * Desayuno del día 6: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos.
+     * Cena del día 5: estaremos en el núcleo urbano asociado a la estación de esquí de [Pradollano](https://maps.app.goo.gl/bvkz82nHyhSQ26Ai6). También allí hay supermercados, bares y restaurantes. No habrá muchos porque al ser temporada baja hay muchos establecimientos cerrados. Los apartamentos tienen cocina y enseres, así que existe la opción de que compréis comida en el supermercado y que la cocinéis vosotros.
+     * Desayuno del día 6: También estaremos en Pradollano. Haremos un desayuno rápido y es poco probable que los bares del pueblo nos puedan atender a todos. Así que os proponemos que compréis para desayunar y que lo hagáis en los apartamentos. A media mañana disfrutaremos unas ricas tortas de chocolate gentileza de la UCO.
      * Almuerzo del día 6: Estaremos en mitad del campo sin posibilidad de comprar nada, así que la única opción viable aquí es que traigáis bocadillos o comida ya preparada.
 -   Agua. Es fundamental que lleves agua. En la montaña encontraremos muchos arroyos, pero no están clorados, así que no recomendamos que bebáis de ahí. Si lo haces es tu responsabilidad. Puedes llevar pastillas potabilizadoras o un filtro de carbón activo. Con 2 litros de agua por persona y día es suficiente, pero si tiendes a sudar mucho, echa 3. En el lugar donde haremos noche hay agua potable disponible.
 -   Gafas de Sol y crema solar. Es recomendable usarlas en la montaña ya que la radiación es muy elevada. Aunque estemos en otoño, sí.
--   Prismáticos y telescopios. En varias paradas intentaremos ver fauna silvestre (p.ej. Laguna de Zóñar y cabras monteses en Sierra Neavada) así que intenta buscar algún prismático para la visita.  Los docentes llevaremos algún equipo extra pero mejor que traigas tu propio equipo.  
+-   Prismáticos y telescopios. En varias paradas intentaremos ver fauna silvestre (p.ej. Laguna de Zóñar y cabras monteses en Sierra Nevada) así que intenta buscar algún prismático para la visita.  Los docentes llevaremos algún equipo extra pero mejor que traigas tu propio equipo.  
 -   Ropa. Es importante elegir bien la ropa cuando se sube a la montaña. Sugiero lo siguiente:
     -   Pantalón largo.
     -   Camiseta interior de licra o lana merina. Si sudas mucho echa un recambio para no quedarte frío en las paradas.
@@ -315,7 +315,8 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 -   Papel higiénico y alguna bolsa de plástico.
 -   Instala las siguientes aplicaciones en tu móvil:
     -   [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). 
-    -   QField ([aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dch.opengis.qfield&ved=2ahUKEwihkLi-87qQAxWcVEEAHeeOGJoQFnoECB8QAQ&usg=AOvVaw3EHih9JSUwElA38RX5HtQ4) para Android y [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/qfield-for-qgis/id1531726814&ved=2ahUKEwjz2_XK87qQAxUTV0EAHSdzJKkQFnoECBoQAQ&usg=AOvVaw1UNsll6KDEmkPelLqgRX7m) para IOS). 
+    -   QField ([aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dch.opengis.qfield&ved=2ahUKEwihkLi-87qQAxWcVEEAHeeOGJoQFnoECB8QAQ&usg=AOvVaw3EHih9JSUwElA38RX5HtQ4) para Android y [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/qfield-for-qgis/id1531726814&ved=2ahUKEwjz2_XK87qQAxUTV0EAHSdzJKkQFnoECBoQAQ&usg=AOvVaw1UNsll6KDEmkPelLqgRX7m) para IOS). Solo para los estudiantes de Ciencias Ambientales.
+    -   Reality Scan ([aquí](https://play.google.com/store/apps/details?id=com.epicgames.realityscan&pcampaignid=web_share) para Android y [aquí](https://apps.apple.com/es/app/realityscan-mobile/id1584832280) para IOS). Solo para los estudiantes de Ciencias Ambientales.
     -   Las siguientes aplicaciones te servirán para identificar especies en los muestreos:
         -   PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a partir de una fotografía de alguno de sus órganos.
         -   Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
@@ -341,11 +342,24 @@ Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y
 
 ### 4.2 Captura de datos
 
-Ingeniería Forestal: 
-- Inventario ecológico: en cada ecosistema harán una parcela de inventario ecológico de 10 m de diámetro. Cada grupo deberá tomar al menos una parcela en cada ecosistema en la que se registrarán mediante un formulario de Epicollect5 datos sobre diversidad de especies leñosas, estructura de la vegetación, tipo de suelo, y antropización. A su
+#### 4.2.1 Para estudiantes de Ingeniería Forestal
+
+- Inventario ecológico: en cada ecosistema harán una parcela de inventario ecológico de 10 m de diámetro. Cada grupo deberá tomar al menos una parcela en cada ecosistema en la que se registrarán mediante un formulario de Epicollect5 datos sobre diversidad de especies leñosas, estructura de la vegetación, tipo de suelo, y antropización. El proyecto de Epicollect5 que usarán para esto se llama "Muestreo cobertura especies". Búscalo con ese nombre en la aplicación que tienes instalado en tu móvil y así podrás tomar datos.
 - Muestreo de suelo: los grupos encargados de cada ecosistema recogerán una muestra de suelo de aproximadamente 500 g para la preparación de su experimento de mesocosmos (Gaia Forestal). 
 
+#### 4.2.2 Para estudiantes de Ciencias Ambientales
 
+- Asignatura de SIG:
+
+  - Toma de datos con el proyecto de QField. Tendréis que hacer esto en los siguientes ecosistemas: bosque de ribera, matorral de media montaña, encinares, pinares de repoblación, piornal-enebral.
+  - Levantamiento en 3D con RealityScan. Tendréis que hacer esto en los siguientes ecosistemas: bosque de ribera, encinare y pinares de repoblación. 
+
+- Asignatura de ecología:
+
+  - Inventario ecológico: en cada ecosistema harán una parcela de inventario ecológico de 10 m de diámetro. Haremos grupos para esto solamente. Cada grupo deberá tomar al menos una parcela en cada ecosistema en la que se registrarán mediante un formulario de Epicollect5 datos sobre diversidad de especies leñosas, estructura de la vegetación, tipo de suelo, y antropización. El proyecto de Epicollect5 que usarán para esto se llama "Muestreo cobertura especies". Búscalo con ese nombre en la aplicación que tienes instalado en tu móvil y así podrás tomar datos. Los grupos que formemos tendrán entre 4 y 5 personas. Hay que dar un nombre al grupo que tiene que empezar por "CCAA" para distinguirlo de los grupos de ingeniería forestal. 
+  - Fotos generales para ilustrar el trabajo de los ecosistemas que estamos haciendo en prácticas. 
+
+  
 
 ### 4.3 Avistamiento de aves en el lago de Zóñar
 
@@ -377,10 +391,6 @@ La actividad que proponemos tiene varios objetivos docentes:
 + Proponer actuaciones que satisfagan las necesidades de los actores implicados.
 
 
-
-### 4.6 Actividad de captura de insectos nocturnos
-
-La actividad consistirá en la colocación de una serie de trampas de luz para insectos en la zona, en la que podremos hablar de la diversidad, la presencia de endemismos y cómo las comunidades vegetales de la zona pueden llegar a indicarnos las especies que acudirán antes incluso de que lo hagan. Además, podremos ser testigos de cómo las condiciones ambientales (viento y temperatura) y la fase lunar pueden determinar en gran medida la riqueza y abundancia de insectos nocturnos.  
 
 
 
