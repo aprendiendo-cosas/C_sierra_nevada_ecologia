@@ -7,7 +7,7 @@
 > -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), José Luis Quero (jose.quero@uco.es) y Rocío Hernández (rociohc@uco.es)
 > -   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2026_2027/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/portada.jpg)
 
 
 
