@@ -337,7 +337,7 @@ Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y
 -   [Generalidades de la vegetación, la flora y la fauna de algunos ecosistemas de Sierra Nevada](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ecosistemas_sierra_nevada.pdf). Se trata de un fragmento del libro "Parque Natural de Sierra Nevada", escrito por Joaquín Molero Mesa en 1992. Este libro describe los principales ecosistemas de Sierra Nevada con una perspectiva botánica basada en las Series de Vegetación. Es muy interesante para entender la estructura y composición específica de los distintos ecosistemas que veremos.
 -   En la visita al bosque de ribera del río Genil observaremos poblaciones de especies invasoras. Concretamente de *Ailanthus altissima*. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ribera_caracteristicas_invasion_ailanto.pdf) artículo y en [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/ribera_ailanthus_altissima_2013_tcm30-69804.pdf) otro informe se habla con detalle de esta especie invasora.
 -   Artículos diversos sobre [pinares de repoblación](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pinares_repoblacion.pdf). Esta colección de artículos procede de un libro editado por el Observatorio de Seguimiento del Cambio Global en Sierra Nevada en 2015.
--   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales_manual.pdf) libro sobre enbrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
+-   [Este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales_manual.pdf) libro sobre enebrales es muy interesante para entender su composición, estructura y dinámica. En [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/enebrales.pdf) capítulo de libro se habla del posible impacto del cambio climático en este ecosistema.
 -   Por último, sobre los pastizales, aportamos [esta](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_alta_montania.pdf) descripción de su composición florística y [este](https://github.com/aprendiendo-cosas/C_sierra_nevada_ecologia/raw/2025_2026/biblio/pastizales_impacto_cambio_clima.pdf) artículo periodístico en el que se describen los principales impactos del cambio climático sobre este ecosistema.
 
 ### 4.2 Captura de datos
@@ -392,8 +392,6 @@ La actividad que proponemos tiene varios objetivos docentes:
 
 
 
-
-
 ## 5. Contextualización ecológica de Sierra Nevada
 
 Sierra Nevada es el macizo montañoso más alto de la Península Ibérica. Esto, junto con su posición geográfica muy cercana al Mediterráneo, le confieren propiedades ecológicas muy relevantes. Buena parte de esta montaña está incluida en el Espacio Protegido de Sierra Nevada (170.000 Has) que consta del Parque Nacional de Sierra Nevada (86.000 Has) y del anteriormente denominado Parque Natural de Sierra Nevada. También está protegido con la figura de reserva de la biosfera (figura auspiciada por la UNESCO).
@@ -418,9 +416,6 @@ La vegetación se distribuye adaptándose a estas condiciones cambiantes de mane
 
 Resulta muy interesante analizar cómo los cambios graduales en las condiciones ambientales generan patrones de cambio discreto en la vegetación: pisos bioclimáticos. En Sierra Nevada están presentes casi todos los pisos bioclimáticos típicos de la región Mediterránea: termomediterráneo, mesomediterráneo, supramediterráneo, oromediterráneo y crioromediterráneo.
 
-Desde Córdoba hasta Sierra Nevada atravesaremos todos estos pisos excepto el último, que es inaccesible para nosotros sin material de alta montaña.
-Si te interesa este asunto, puedes leer [este](http://www.um.es/docencia/geobotanica/ficheros/tema03.pdf) documento.
-
 La siguiente imagen muestra esquemáticamente cómo se distribuyen los distintos tipos de ecosistemas en el gradiente altitudinal de Sierra Nevada.
 
 ![ecosistemas](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/heads/main/imagenes/pisos_vegetacion.png)
@@ -438,10 +433,6 @@ El siguiente esquema muestra alguna de estas adaptaciones.
 
 
 
-
-
-
-Las dos figuras anteriores se han extraído de [este](http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.7e1cf46ddf59bb227a9ebe205510e1ca/?vgnextoid=49f15326d62e1410VgnVCM2000000624e50aRCRD&vgnextchannel=bc2292015eef6510VgnVCM2000000624e50aRCRD) documento editado por la Junta de Andalucía.
 
 
 
