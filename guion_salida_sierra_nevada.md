@@ -4,7 +4,7 @@
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #d1cb17; border-radius: 5px; padding: 5px; font-weight: bold;"> Salida campo</span>
 > -   **_Versión_**: 2026-2027
 > -   **_Asignatura (grado)_**: Ecología (Ciencias ambientales), Ecología (Ingeniería Forestal), SIG (Ciencias ambientales), Edafología (Ingeniería Forestal)
-> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es) y otros más por confirmar...
+> -   ***Profesores implicados***: Pablo González Moreno (ir2gomop@uco.es), Curro Bonet García (fjbonet@uco.es), Jorge Torres Sánchez (o22tosaj@uco.es), Vidal Barrón López de Torre (vidal@uco.es), José Luis Quero (jose.quero@uco.es) y Rocío Hernández (rociohc@uco.es)
 > -   **_Fecha y Duración_**: 5 y 6 de noviembre de 2026
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/C_sierra_nevada_ecologia/refs/tags/2026_2027/imagenes/portada.jpg)
@@ -59,7 +59,7 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
 
 | Evento                                                       | Hora inicio | Hora fin |
 | ------------------------------------------------------------ | ----------- | -------- |
-| Recepción y recogida de mochilas en la [Glorieta Cruz Roja](https://maps.app.goo.gl/hnLf3BHTsqssftvf7) | 08:00       | 08:15    |
+| Recepción y recogida de mochilas en la [Glorieta Media Luna](https://maps.app.goo.gl/fdEdJZ8CS2ocX3pS8) | 08:00       | 08:15    |
 | Viaje hacia Zóñar                                            | 08:15       | 08:50    |
 | **Visita lago de Zóñar y anillamiento de aves**              | 09:00       | 11:00    |
 | Viaje hacia Sierra Nevada                                    | 11:00       | 12:45    |
@@ -123,7 +123,7 @@ La siguiente lista contiene las indicaciones que deberás tener en cuenta para p
 -   Papel higiénico y alguna bolsa de plástico.
 -   Instala las siguientes aplicaciones en tu móvil:
     -   [Epicolect5](https://five.epicollect.net/) ([aquí](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB) para Android y aquí para [iOS](https://itunes.apple.com/us/app/epicollect5/id1183858199?mt=8)). 
-    -   QField ([aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dch.opengis.qfield&ved=2ahUKEwihkLi-87qQAxWcVEEAHeeOGJoQFnoECB8QAQ&usg=AOvVaw3EHih9JSUwElA38RX5HtQ4) para Android y [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/qfield-for-qgis/id1531726814&ved=2ahUKEwjz2_XK87qQAxUTV0EAHSdzJKkQFnoECBoQAQ&usg=AOvVaw1UNsll6KDEmkPelLqgRX7m) para IOS)
+    -   QField ([aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dch.opengis.qfield&ved=2ahUKEwihkLi-87qQAxWcVEEAHeeOGJoQFnoECB8QAQ&usg=AOvVaw3EHih9JSUwElA38RX5HtQ4) para Android y [aquí](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/qfield-for-qgis/id1531726814&ved=2ahUKEwjz2_XK87qQAxUTV0EAHSdzJKkQFnoECBoQAQ&usg=AOvVaw1UNsll6KDEmkPelLqgRX7m) para IOS). 
     -   Las siguientes aplicaciones te servirán para identificar especies en los muestreos:
         -   PlantNet ([Android](https://play.google.com/store/apps/details?id=org.plantnet&gl=US), [iOS](https://apps.apple.com/es/app/plantnet/id600547573?platform=iphone)): Permite identificar plantas a partir de una fotografía de alguno de sus órganos.
         -   Picture Insect ([Android](https://play.google.com/store/apps/details?id=com.glority.pictureinsect), [iOS](https://apps.apple.com/es/app/picture-insect-insectos-id/id1461694973?platform=iphone)): Igual que la anterior, pero con insectos.
@@ -149,7 +149,9 @@ Con objeto de preparar la salida, recomendamos que  los estudiantes descarguen y
 
 ### 4.2 Captura de datos
 
-Por concretar
+Ingeniería Forestal: 
+- Inventario ecológico: en cada ecosistema harán una parcela de inventario ecológico de 10 m de diámetro. Cada grupo deberá tomar al menos una parcela en cada ecosistema en la que se registrarán mediante un formulario de Epicollect5 datos sobre diversidad de especies leñosas, estructura de la vegetación, tipo de suelo, y antropización. A su
+- Muestreo de suelo: los grupos encargados de cada ecosistema recogerán una muestra de suelo de aproximadamente 500 g para la preparación de su experimento de mesocosmos (Gaia Forestal). 
 
 
 
