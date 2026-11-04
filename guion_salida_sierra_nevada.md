@@ -51,8 +51,8 @@ El siguiente mapa muestra el itinerario que realizaremos y las paradas. Es un ma
 
 
 
-La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas.
-En negrita se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, tipos de suelos, captura de datos, etc.
+La siguiente tabla muestra el itinerario que seguiremos y las horas aproximadas. La indicación más importante el sitio y hora de salida. Saldremos de [aquí](https://maps.app.goo.gl/fdEdJZ8CS2ocX3pS8) el jueves día 5 a als 8:00.
+Se señalan las paradas en las que comentaremos diferentes aspectos de los ecosistemas indicados: estructura, composición, problemas de manejo, condiciones y recursos, interacciones, tipos de suelos, captura de datos, etc.
 
 
 
@@ -98,14 +98,14 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;"></td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Bosque de ribera y especies invasoras</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Visita matorrales de media montaña y regeneración postincendio</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">12:45</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">14:00</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Ecología y tipos de suelos propios de los bosques de ribera. Especies invasoras. Impactos sobre los bosques de ribera.</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Efecto del fuego en ecosistemas Mediterráneos. Tipos de suelo. Caza y otros aprovechamientos. Sucesión ecológica. Restauración hidrológico forestal.</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">
         Ingeniería forestal:<br>- Toma de muestras de suelo.<br>- Formularios epicollect<br>
         <hr style="margin: 6px 0; border: none; border-top: 1px solid #d0d7de;">
-        Ambientales:<br>- Formularios epicollect<br>- Datos Qfield para clasificación<br>- RealityScan<br>- Fotos para el trabajo
+        Ambientales:<br>- Formularios epicollect<br>- Datos Qfield para clasificación<br>- Fotos para el trabajo
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -116,14 +116,14 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Traer comidas ricas a los profesores para que se porten bien con los estudiantes</td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Visita matorrales de media montaña y regeneración postincendio</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Bosque de ribera y especies invasoras</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">15:30</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">17:00</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Efecto del fuego en ecosistemas Mediterráneos. Tipos de suelo. Caza y otros aprovechamientos. Sucesión ecológica. Restauración hidrológico forestal.</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">Ecología y tipos de suelos propios de los bosques de ribera. Especies invasoras. Impactos sobre los bosques de ribera.</td>
       <td style="border: 1px solid #d0d7de; padding: 8px 12px; background-color: #ffffff;">
         Ingeniería forestal:<br>- Toma de muestras de suelo.<br>- Formularios epicollect<br>
         <hr style="margin: 6px 0; border: none; border-top: 1px solid #d0d7de;">
-        Ambientales:<br>- Formularios epicollect<br>- Datos Qfield para clasificación<br>- Fotos para el trabajo
+        Ambientales:<br>- Formularios epicollect<br>- Datos Qfield para clasificación<br>- RealityScan<br>- Fotos para el trabajo
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -156,6 +156,7 @@ En negrita se señalan las paradas en las que comentaremos diferentes aspectos d
     </tr>
   </tbody>
 </table>
+
 
 
 **Día 6 de noviembre**
